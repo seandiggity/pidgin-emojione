@@ -8,7 +8,7 @@ Although I call this theme "slim", it contains 412 icons... but it's still much 
 ## Installation
 
 Download the latest release
-[`pidgin-emojislim.tar.gz`](https://github.com/seandiggity/pidgin-emojislim/pidgin-emojislim.tar.gz)
+[`pidgin-emojislim.tar.gz`](https://github.com/seandiggity/pidgin-emojislim/blob/master/pidgin-emojislim.tar.gz)
 and drag it onto the list of smiley themes in Tools → Preferences.
 
 ## Licenses
