@@ -4,1457 +4,415 @@ Icon=1f403.png
 Author=Sean Diggity O'Brien
 
 [default]
-1f4af.png	💯	:100:
-1f522.png	🔢	:1234:
-1f600.png	😀	:grinning:
-1f601.png	😁	:grin:
-1f602.png	😂	:joy:	:')	:'-)
-1f923.png	🤣	:rofl:	:rolling_on_the_floor_laughing:
-1f603.png	😃	:smiley:	:D	:-D	=D
-1f604.png	😄	:smile:
-1f605.png	😅	:sweat_smile:	':)	':-)	'=)	':D	':-D	'=D
-1f606.png	😆	:laughing:	:satisfied:	>:)	>;)	>:-)	>=)
-1f609.png	😉	:wink:	;)	;-)	*-)	*)	;-]	;]	;D	;^)
-1f60a.png	😊	:blush:
-1f60b.png	😋	:yum:
-1f60e.png	😎	:sunglasses:	B-)	B)	8)	8-)	B-D	8-D
-1f60d.png	😍	:heart_eyes:
-1f618.png	😘	:kissing_heart:	:*	:-*	=*	:^*
-1f617.png	😗	:kissing:
-1f619.png	😙	:kissing_smiling_eyes:
-1f61a.png	😚	:kissing_closed_eyes:
-263a.png	☺	:relaxed:
-1f642.png	🙂	:slight_smile:	:slightly_smiling_face:	:)	:-)	=]	=)	:]
-1f917.png	🤗	:hugging:	:hugging_face:
-1f914.png	🤔	:thinking:	:thinking_face:
-1f610.png	😐	:neutral_face:
-1f611.png	😑	:expressionless:	-_-	-__-	-___-
-1f636.png	😶	:no_mouth:	:-X	:X	:-#	:#	=X	=x	:x	:-x	=#
-1f644.png	🙄	:rolling_eyes:	:face_with_rolling_eyes:
-1f60f.png	😏	:smirk:
-1f623.png	😣	:persevere:	>.<
-1f625.png	😥	:disappointed_relieved:
-1f62e.png	😮	:open_mouth:	:-O	:O	:-o	:o	O_O	>:O
-1f910.png	🤐	:zipper_mouth:	:zipper_mouth_face:
-1f62f.png	😯	:hushed:
-1f62a.png	😪	:sleepy:
-1f62b.png	😫	:tired_face:
-1f634.png	😴	:sleeping:
-1f60c.png	😌	:relieved:
-1f913.png	🤓	:nerd:	:nerd_face:
-1f61b.png	😛	:stuck_out_tongue:	:P	:-P	=P	:-p	:p	=p	:-Þ	:Þ	:þ	:-þ	:-b	:b	d:
-1f61c.png	😜	:stuck_out_tongue_winking_eye:	>:P	X-P	x-p
-1f61d.png	😝	:stuck_out_tongue_closed_eyes:
-1f924.png	🤤	:drooling_face:	:drool:
-1f612.png	😒	:unamused:
-1f613.png	😓	:sweat:	':(	':-(	'=(
-1f614.png	😔	:pensive:
-1f615.png	😕	:confused:	>:\	>:/	:-/	:-.	:/	:\	=/	=\	:L	=L
-1f643.png	🙃	:upside_down:	:upside_down_face:
-1f911.png	🤑	:money_mouth:	:money_mouth_face:
-1f632.png	😲	:astonished:
-2639.png	☹	:frowning2:	:white_frowning_face:
-1f641.png	🙁	:slight_frown:	:slightly_frowning_face:
-1f616.png	😖	:confounded:
-1f61e.png	😞	:disappointed:	>:[	:-(	:(	:-[	:[	=(
-1f61f.png	😟	:worried:
-1f624.png	😤	:triumph:
-1f622.png	😢	:cry:	:'(	:'-(	;(	;-(
-1f62d.png	😭	:sob:
-1f626.png	😦	:frowning:
-1f627.png	😧	:anguished:
-1f628.png	😨	:fearful:	D:
-1f629.png	😩	:weary:
-1f62c.png	😬	:grimacing:
-1f630.png	😰	:cold_sweat:
-1f631.png	😱	:scream:
-1f633.png	😳	:flushed:	:$	=$
-1f635.png	😵	:dizzy_face:	#-)	#)	%-)	%)	X)	X-)
-1f621.png	😡	:rage:
-1f620.png	😠	:angry:	>:(	>:-(	:@
-1f607.png	😇	:innocent:	O:-)	0:-3	0:3	0:-)	0:)	0;^)	O:)	O;-)	O=)	0;-)	O:-3	O:3
-1f920.png	🤠	:cowboy:	:face_with_cowboy_hat:
-1f921.png	🤡	:clown:	:clown_face:
-1f925.png	🤥	:lying_face:	:liar:
-1f637.png	😷	:mask:
-1f912.png	🤒	:thermometer_face:	:face_with_thermometer:
-1f915.png	🤕	:head_bandage:	:face_with_head_bandage:
-1f922.png	🤢	:nauseated_face:	:sick:
-1f927.png	🤧	:sneezing_face:	:sneeze:
-1f608.png	😈	:smiling_imp:
-1f47f.png	👿	:imp:
-1f479.png	👹	:japanese_ogre:
-1f47a.png	👺	:japanese_goblin:
-1f480.png	💀	:skull:	:skeleton:
-2620.png	☠	:skull_crossbones:	:skull_and_crossbones:
-1f47b.png	👻	:ghost:
-1f47d.png	👽	:alien:
-1f47e.png	👾	:space_invader:
-1f916.png	🤖	:robot:	:robot_face:
-1f4a9.png	💩	:poop:	:shit:	:hankey:	:poo:
-1f63a.png	😺	:smiley_cat:
-1f638.png	😸	:smile_cat:
-1f639.png	😹	:joy_cat:
-1f63b.png	😻	:heart_eyes_cat:
-1f63c.png	😼	:smirk_cat:
-1f63d.png	😽	:kissing_cat:
-1f640.png	🙀	:scream_cat:
-1f63f.png	😿	:crying_cat_face:
-1f63e.png	😾	:pouting_cat:
-1f648.png	🙈	:see_no_evil:
-1f649.png	🙉	:hear_no_evil:
-1f64a.png	🙊	:speak_no_evil:
-1f466.png	👦	:boy:
-1f466-1f3fb.png	👦🏻	:boy_tone1:
-1f466-1f3fc.png	👦🏼	:boy_tone2:
-1f466-1f3fd.png	👦🏽	:boy_tone3:
-1f466-1f3fe.png	👦🏾	:boy_tone4:
-1f466-1f3ff.png	👦🏿	:boy_tone5:
-1f467.png	👧	:girl:
-1f467-1f3fb.png	👧🏻	:girl_tone1:
-1f467-1f3fc.png	👧🏼	:girl_tone2:
-1f467-1f3fd.png	👧🏽	:girl_tone3:
-1f467-1f3fe.png	👧🏾	:girl_tone4:
-1f467-1f3ff.png	👧🏿	:girl_tone5:
-1f468.png	👨	:man:
-1f468-1f3fb.png	👨🏻	:man_tone1:
-1f468-1f3fc.png	👨🏼	:man_tone2:
-1f468-1f3fd.png	👨🏽	:man_tone3:
-1f468-1f3fe.png	👨🏾	:man_tone4:
-1f468-1f3ff.png	👨🏿	:man_tone5:
-1f469.png	👩	:woman:
-1f469-1f3fb.png	👩🏻	:woman_tone1:
-1f469-1f3fc.png	👩🏼	:woman_tone2:
-1f469-1f3fd.png	👩🏽	:woman_tone3:
-1f469-1f3fe.png	👩🏾	:woman_tone4:
-1f469-1f3ff.png	👩🏿	:woman_tone5:
-1f474.png	👴	:older_man:
-1f474-1f3fb.png	👴🏻	:older_man_tone1:
-1f474-1f3fc.png	👴🏼	:older_man_tone2:
-1f474-1f3fd.png	👴🏽	:older_man_tone3:
-1f474-1f3fe.png	👴🏾	:older_man_tone4:
-1f474-1f3ff.png	👴🏿	:older_man_tone5:
-1f475.png	👵	:older_woman:	:grandma:
-1f475-1f3fb.png	👵🏻	:older_woman_tone1:	:grandma_tone1:
-1f475-1f3fc.png	👵🏼	:older_woman_tone2:	:grandma_tone2:
-1f475-1f3fd.png	👵🏽	:older_woman_tone3:	:grandma_tone3:
-1f475-1f3fe.png	👵🏾	:older_woman_tone4:	:grandma_tone4:
-1f475-1f3ff.png	👵🏿	:older_woman_tone5:	:grandma_tone5:
-1f476.png	👶	:baby:
-1f476-1f3fb.png	👶🏻	:baby_tone1:
-1f476-1f3fc.png	👶🏼	:baby_tone2:
-1f476-1f3fd.png	👶🏽	:baby_tone3:
-1f476-1f3fe.png	👶🏾	:baby_tone4:
-1f476-1f3ff.png	👶🏿	:baby_tone5:
-1f47c.png	👼	:angel:
-1f47c-1f3fb.png	👼🏻	:angel_tone1:
-1f47c-1f3fc.png	👼🏼	:angel_tone2:
-1f47c-1f3fd.png	👼🏽	:angel_tone3:
-1f47c-1f3fe.png	👼🏾	:angel_tone4:
-1f47c-1f3ff.png	👼🏿	:angel_tone5:
-1f46e.png	👮	:cop:
-1f46e-1f3fb.png	👮🏻	:cop_tone1:
-1f46e-1f3fc.png	👮🏼	:cop_tone2:
-1f46e-1f3fd.png	👮🏽	:cop_tone3:
-1f46e-1f3fe.png	👮🏾	:cop_tone4:
-1f46e-1f3ff.png	👮🏿	:cop_tone5:
-1f575.png	🕵	:spy:	:sleuth_or_spy:
-1f575-1f3fb.png	🕵🏻	:spy_tone1:	:sleuth_or_spy_tone1:
-1f575-1f3fc.png	🕵🏼	:spy_tone2:	:sleuth_or_spy_tone2:
-1f575-1f3fd.png	🕵🏽	:spy_tone3:	:sleuth_or_spy_tone3:
-1f575-1f3fe.png	🕵🏾	:spy_tone4:	:sleuth_or_spy_tone4:
-1f575-1f3ff.png	🕵🏿	:spy_tone5:	:sleuth_or_spy_tone5:
-1f482.png	💂	:guardsman:
-1f482-1f3fb.png	💂🏻	:guardsman_tone1:
-1f482-1f3fc.png	💂🏼	:guardsman_tone2:
-1f482-1f3fd.png	💂🏽	:guardsman_tone3:
-1f482-1f3fe.png	💂🏾	:guardsman_tone4:
-1f482-1f3ff.png	💂🏿	:guardsman_tone5:
-1f477.png	👷	:construction_worker:
-1f477-1f3fb.png	👷🏻	:construction_worker_tone1:
-1f477-1f3fc.png	👷🏼	:construction_worker_tone2:
-1f477-1f3fd.png	👷🏽	:construction_worker_tone3:
-1f477-1f3fe.png	👷🏾	:construction_worker_tone4:
-1f477-1f3ff.png	👷🏿	:construction_worker_tone5:
-1f473.png	👳	:man_with_turban:
-1f473-1f3fb.png	👳🏻	:man_with_turban_tone1:
-1f473-1f3fc.png	👳🏼	:man_with_turban_tone2:
-1f473-1f3fd.png	👳🏽	:man_with_turban_tone3:
-1f473-1f3fe.png	👳🏾	:man_with_turban_tone4:
-1f473-1f3ff.png	👳🏿	:man_with_turban_tone5:
-1f471.png	👱	:person_with_blond_hair:
-1f471-1f3fb.png	👱🏻	:person_with_blond_hair_tone1:
-1f471-1f3fc.png	👱🏼	:person_with_blond_hair_tone2:
-1f471-1f3fd.png	👱🏽	:person_with_blond_hair_tone3:
-1f471-1f3fe.png	👱🏾	:person_with_blond_hair_tone4:
-1f471-1f3ff.png	👱🏿	:person_with_blond_hair_tone5:
-1f385.png	🎅	:santa:
-1f385-1f3fb.png	🎅🏻	:santa_tone1:
-1f385-1f3fc.png	🎅🏼	:santa_tone2:
-1f385-1f3fd.png	🎅🏽	:santa_tone3:
-1f385-1f3fe.png	🎅🏾	:santa_tone4:
-1f385-1f3ff.png	🎅🏿	:santa_tone5:
-1f936.png	🤶	:mrs_claus:	:mother_christmas:
-1f936-1f3fb.png	🤶🏻	:mrs_claus_tone1:	:mother_christmas_tone1:
-1f936-1f3fc.png	🤶🏼	:mrs_claus_tone2:	:mother_christmas_tone2:
-1f936-1f3fd.png	🤶🏽	:mrs_claus_tone3:	:mother_christmas_tone3:
-1f936-1f3fe.png	🤶🏾	:mrs_claus_tone4:	:mother_christmas_tone4:
-1f936-1f3ff.png	🤶🏿	:mrs_claus_tone5:	:mother_christmas_tone5:
-1f478.png	👸	:princess:
-1f478-1f3fb.png	👸🏻	:princess_tone1:
-1f478-1f3fc.png	👸🏼	:princess_tone2:
-1f478-1f3fd.png	👸🏽	:princess_tone3:
-1f478-1f3fe.png	👸🏾	:princess_tone4:
-1f478-1f3ff.png	👸🏿	:princess_tone5:
-1f934.png	🤴	:prince:
-1f934-1f3fb.png	🤴🏻	:prince_tone1:
-1f934-1f3fc.png	🤴🏼	:prince_tone2:
-1f934-1f3fd.png	🤴🏽	:prince_tone3:
-1f934-1f3fe.png	🤴🏾	:prince_tone4:
-1f934-1f3ff.png	🤴🏿	:prince_tone5:
-1f470.png	👰	:bride_with_veil:
-1f470-1f3fb.png	👰🏻	:bride_with_veil_tone1:
-1f470-1f3fc.png	👰🏼	:bride_with_veil_tone2:
-1f470-1f3fd.png	👰🏽	:bride_with_veil_tone3:
-1f470-1f3fe.png	👰🏾	:bride_with_veil_tone4:
-1f470-1f3ff.png	👰🏿	:bride_with_veil_tone5:
-1f935.png	🤵	:man_in_tuxedo:
-1f935-1f3fb.png	🤵🏻	:man_in_tuxedo_tone1:	:tuxedo_tone1:
-1f935-1f3fc.png	🤵🏼	:man_in_tuxedo_tone2:	:tuxedo_tone2:
-1f935-1f3fd.png	🤵🏽	:man_in_tuxedo_tone3:	:tuxedo_tone3:
-1f935-1f3fe.png	🤵🏾	:man_in_tuxedo_tone4:	:tuxedo_tone4:
-1f935-1f3ff.png	🤵🏿	:man_in_tuxedo_tone5:	:tuxedo_tone5:
-1f930.png	🤰	:pregnant_woman:	:expecting_woman:
-1f930-1f3fb.png	🤰🏻	:pregnant_woman_tone1:	:expecting_woman_tone1:
-1f930-1f3fc.png	🤰🏼	:pregnant_woman_tone2:	:expecting_woman_tone2:
-1f930-1f3fd.png	🤰🏽	:pregnant_woman_tone3:	:expecting_woman_tone3:
-1f930-1f3fe.png	🤰🏾	:pregnant_woman_tone4:	:expecting_woman_tone4:
-1f930-1f3ff.png	🤰🏿	:pregnant_woman_tone5:	:expecting_woman_tone5:
-1f472.png	👲	:man_with_gua_pi_mao:
-1f472-1f3fb.png	👲🏻	:man_with_gua_pi_mao_tone1:
-1f472-1f3fc.png	👲🏼	:man_with_gua_pi_mao_tone2:
-1f472-1f3fd.png	👲🏽	:man_with_gua_pi_mao_tone3:
-1f472-1f3fe.png	👲🏾	:man_with_gua_pi_mao_tone4:
-1f472-1f3ff.png	👲🏿	:man_with_gua_pi_mao_tone5:
-1f64d.png	🙍	:person_frowning:
-1f64d-1f3fb.png	🙍🏻	:person_frowning_tone1:
-1f64d-1f3fc.png	🙍🏼	:person_frowning_tone2:
-1f64d-1f3fd.png	🙍🏽	:person_frowning_tone3:
-1f64d-1f3fe.png	🙍🏾	:person_frowning_tone4:
-1f64d-1f3ff.png	🙍🏿	:person_frowning_tone5:
-1f64e.png	🙎	:person_with_pouting_face:
-1f64e-1f3fb.png	🙎🏻	:person_with_pouting_face_tone1:
-1f64e-1f3fc.png	🙎🏼	:person_with_pouting_face_tone2:
-1f64e-1f3fd.png	🙎🏽	:person_with_pouting_face_tone3:
-1f64e-1f3fe.png	🙎🏾	:person_with_pouting_face_tone4:
-1f64e-1f3ff.png	🙎🏿	:person_with_pouting_face_tone5:
-1f645.png	🙅	:no_good:
-1f645-1f3fb.png	🙅🏻	:no_good_tone1:
-1f645-1f3fc.png	🙅🏼	:no_good_tone2:
-1f645-1f3fd.png	🙅🏽	:no_good_tone3:
-1f645-1f3fe.png	🙅🏾	:no_good_tone4:
-1f645-1f3ff.png	🙅🏿	:no_good_tone5:
-1f646.png	🙆	:ok_woman:	*\0/*	\0/	*\O/*	\O/
-1f646-1f3fb.png	🙆🏻	:ok_woman_tone1:
-1f646-1f3fc.png	🙆🏼	:ok_woman_tone2:
-1f646-1f3fd.png	🙆🏽	:ok_woman_tone3:
-1f646-1f3fe.png	🙆🏾	:ok_woman_tone4:
-1f646-1f3ff.png	🙆🏿	:ok_woman_tone5:
-1f481.png	💁	:information_desk_person:
-1f481-1f3fb.png	💁🏻	:information_desk_person_tone1:
-1f481-1f3fc.png	💁🏼	:information_desk_person_tone2:
-1f481-1f3fd.png	💁🏽	:information_desk_person_tone3:
-1f481-1f3fe.png	💁🏾	:information_desk_person_tone4:
-1f481-1f3ff.png	💁🏿	:information_desk_person_tone5:
-1f64b.png	🙋	:raising_hand:
-1f64b-1f3fb.png	🙋🏻	:raising_hand_tone1:
-1f64b-1f3fc.png	🙋🏼	:raising_hand_tone2:
-1f64b-1f3fd.png	🙋🏽	:raising_hand_tone3:
-1f64b-1f3fe.png	🙋🏾	:raising_hand_tone4:
-1f64b-1f3ff.png	🙋🏿	:raising_hand_tone5:
-1f647.png	🙇	:bow:
-1f647-1f3fb.png	🙇🏻	:bow_tone1:
-1f647-1f3fc.png	🙇🏼	:bow_tone2:
-1f647-1f3fd.png	🙇🏽	:bow_tone3:
-1f647-1f3fe.png	🙇🏾	:bow_tone4:
-1f647-1f3ff.png	🙇🏿	:bow_tone5:
-1f926.png	🤦	:face_palm:	:facepalm:
-1f926-1f3fb.png	🤦🏻	:face_palm_tone1:	:facepalm_tone1:
-1f926-1f3fc.png	🤦🏼	:face_palm_tone2:	:facepalm_tone2:
-1f926-1f3fd.png	🤦🏽	:face_palm_tone3:	:facepalm_tone3:
-1f926-1f3fe.png	🤦🏾	:face_palm_tone4:	:facepalm_tone4:
-1f926-1f3ff.png	🤦🏿	:face_palm_tone5:	:facepalm_tone5:
-1f937.png	🤷	:shrug:
-1f937-1f3fb.png	🤷🏻	:shrug_tone1:
-1f937-1f3fc.png	🤷🏼	:shrug_tone2:
-1f937-1f3fd.png	🤷🏽	:shrug_tone3:
-1f937-1f3fe.png	🤷🏾	:shrug_tone4:
-1f937-1f3ff.png	🤷🏿	:shrug_tone5:
-1f486.png	💆	:massage:
-1f486-1f3fb.png	💆🏻	:massage_tone1:
-1f486-1f3fc.png	💆🏼	:massage_tone2:
-1f486-1f3fd.png	💆🏽	:massage_tone3:
-1f486-1f3fe.png	💆🏾	:massage_tone4:
-1f486-1f3ff.png	💆🏿	:massage_tone5:
-1f487.png	💇	:haircut:
-1f487-1f3fb.png	💇🏻	:haircut_tone1:
-1f487-1f3fc.png	💇🏼	:haircut_tone2:
-1f487-1f3fd.png	💇🏽	:haircut_tone3:
-1f487-1f3fe.png	💇🏾	:haircut_tone4:
-1f487-1f3ff.png	💇🏿	:haircut_tone5:
-1f6b6.png	🚶	:walking:
-1f6b6-1f3fb.png	🚶🏻	:walking_tone1:
-1f6b6-1f3fc.png	🚶🏼	:walking_tone2:
-1f6b6-1f3fd.png	🚶🏽	:walking_tone3:
-1f6b6-1f3fe.png	🚶🏾	:walking_tone4:
-1f6b6-1f3ff.png	🚶🏿	:walking_tone5:
-1f3c3.png	🏃	:runner:
-1f3c3-1f3fb.png	🏃🏻	:runner_tone1:
-1f3c3-1f3fc.png	🏃🏼	:runner_tone2:
-1f3c3-1f3fd.png	🏃🏽	:runner_tone3:
-1f3c3-1f3fe.png	🏃🏾	:runner_tone4:
-1f3c3-1f3ff.png	🏃🏿	:runner_tone5:
-1f483.png	💃	:dancer:
-1f483-1f3fb.png	💃🏻	:dancer_tone1:
-1f483-1f3fc.png	💃🏼	:dancer_tone2:
-1f483-1f3fd.png	💃🏽	:dancer_tone3:
-1f483-1f3fe.png	💃🏾	:dancer_tone4:
-1f483-1f3ff.png	💃🏿	:dancer_tone5:
-1f57a.png	🕺	:man_dancing:	:male_dancer:
-1f57a-1f3fb.png	🕺🏻	:man_dancing_tone1:	:male_dancer_tone1:
-1f57a-1f3fc.png	🕺🏼	:man_dancing_tone2:	:male_dancer_tone2:
-1f57a-1f3fd.png	🕺🏽	:man_dancing_tone3:	:male_dancer_tone3:
-1f57a-1f3fe.png	🕺🏾	:man_dancing_tone4:	:male_dancer_tone4:
-1f57a-1f3ff.png	🕺🏿	:man_dancing_tone5:	:male_dancer_tone5:
-1f46f.png	👯	:dancers:
-1f574.png	🕴	:levitate:	:man_in_business_suit_levitating:
-1f5e3.png	🗣	:speaking_head:	:speaking_head_in_silhouette:
-1f464.png	👤	:bust_in_silhouette:
-1f465.png	👥	:busts_in_silhouette:
-1f93a.png	🤺	:fencer:	:fencing:
-1f3c7.png	🏇	:horse_racing:
-1f3c7-1f3fb.png	🏇🏻	:horse_racing_tone1:
-1f3c7-1f3fc.png	🏇🏼	:horse_racing_tone2:
-1f3c7-1f3fd.png	🏇🏽	:horse_racing_tone3:
-1f3c7-1f3fe.png	🏇🏾	:horse_racing_tone4:
-1f3c7-1f3ff.png	🏇🏿	:horse_racing_tone5:
-26f7.png	⛷	:skier:
-1f3c2.png	🏂	:snowboarder:
-1f3cc.png	🏌	:golfer:
-1f3c4.png	🏄	:surfer:
-1f3c4-1f3fb.png	🏄🏻	:surfer_tone1:
-1f3c4-1f3fc.png	🏄🏼	:surfer_tone2:
-1f3c4-1f3fd.png	🏄🏽	:surfer_tone3:
-1f3c4-1f3fe.png	🏄🏾	:surfer_tone4:
-1f3c4-1f3ff.png	🏄🏿	:surfer_tone5:
-1f6a3.png	🚣	:rowboat:
-1f6a3-1f3fb.png	🚣🏻	:rowboat_tone1:
-1f6a3-1f3fc.png	🚣🏼	:rowboat_tone2:
-1f6a3-1f3fd.png	🚣🏽	:rowboat_tone3:
-1f6a3-1f3fe.png	🚣🏾	:rowboat_tone4:
-1f6a3-1f3ff.png	🚣🏿	:rowboat_tone5:
-1f3ca.png	🏊	:swimmer:
-1f3ca-1f3fb.png	🏊🏻	:swimmer_tone1:
-1f3ca-1f3fc.png	🏊🏼	:swimmer_tone2:
-1f3ca-1f3fd.png	🏊🏽	:swimmer_tone3:
-1f3ca-1f3fe.png	🏊🏾	:swimmer_tone4:
-1f3ca-1f3ff.png	🏊🏿	:swimmer_tone5:
-26f9.png	⛹	:basketball_player:	:person_with_ball:
-26f9-1f3fb.png	⛹🏻	:basketball_player_tone1:	:person_with_ball_tone1:
-26f9-1f3fc.png	⛹🏼	:basketball_player_tone2:	:person_with_ball_tone2:
-26f9-1f3fd.png	⛹🏽	:basketball_player_tone3:	:person_with_ball_tone3:
-26f9-1f3fe.png	⛹🏾	:basketball_player_tone4:	:person_with_ball_tone4:
-26f9-1f3ff.png	⛹🏿	:basketball_player_tone5:	:person_with_ball_tone5:
-1f3cb.png	🏋	:lifter:	:weight_lifter:
-1f3cb-1f3fb.png	🏋🏻	:lifter_tone1:	:weight_lifter_tone1:
-1f3cb-1f3fc.png	🏋🏼	:lifter_tone2:	:weight_lifter_tone2:
-1f3cb-1f3fd.png	🏋🏽	:lifter_tone3:	:weight_lifter_tone3:
-1f3cb-1f3fe.png	🏋🏾	:lifter_tone4:	:weight_lifter_tone4:
-1f3cb-1f3ff.png	🏋🏿	:lifter_tone5:	:weight_lifter_tone5:
-1f6b4.png	🚴	:bicyclist:
-1f6b4-1f3fb.png	🚴🏻	:bicyclist_tone1:
-1f6b4-1f3fc.png	🚴🏼	:bicyclist_tone2:
-1f6b4-1f3fd.png	🚴🏽	:bicyclist_tone3:
-1f6b4-1f3fe.png	🚴🏾	:bicyclist_tone4:
-1f6b4-1f3ff.png	🚴🏿	:bicyclist_tone5:
-1f6b5.png	🚵	:mountain_bicyclist:
-1f6b5-1f3fb.png	🚵🏻	:mountain_bicyclist_tone1:
-1f6b5-1f3fc.png	🚵🏼	:mountain_bicyclist_tone2:
-1f6b5-1f3fd.png	🚵🏽	:mountain_bicyclist_tone3:
-1f6b5-1f3fe.png	🚵🏾	:mountain_bicyclist_tone4:
-1f6b5-1f3ff.png	🚵🏿	:mountain_bicyclist_tone5:
-1f3ce.png	🏎	:race_car:	:racing_car:
-1f3cd.png	🏍	:motorcycle:	:racing_motorcycle:
-1f938.png	🤸	:cartwheel:	:person_doing_cartwheel:
-1f938-1f3fb.png	🤸🏻	:cartwheel_tone1:	:person_doing_cartwheel_tone1:
-1f938-1f3fc.png	🤸🏼	:cartwheel_tone2:	:person_doing_cartwheel_tone2:
-1f938-1f3fd.png	🤸🏽	:cartwheel_tone3:	:person_doing_cartwheel_tone3:
-1f938-1f3fe.png	🤸🏾	:cartwheel_tone4:	:person_doing_cartwheel_tone4:
-1f938-1f3ff.png	🤸🏿	:cartwheel_tone5:	:person_doing_cartwheel_tone5:
-1f93c.png	🤼	:wrestlers:	:wrestling:
-1f93c-1f3fb.png	🤼🏻	:wrestlers_tone1:	:wrestling_tone1:
-1f93c-1f3fc.png	🤼🏼	:wrestlers_tone2:	:wrestling_tone2:
-1f93c-1f3fd.png	🤼🏽	:wrestlers_tone3:	:wrestling_tone3:
-1f93c-1f3fe.png	🤼🏾	:wrestlers_tone4:	:wrestling_tone4:
-1f93c-1f3ff.png	🤼🏿	:wrestlers_tone5:	:wrestling_tone5:
-1f93d.png	🤽	:water_polo:
-1f93d-1f3fb.png	🤽🏻	:water_polo_tone1:
-1f93d-1f3fc.png	🤽🏼	:water_polo_tone2:
-1f93d-1f3fd.png	🤽🏽	:water_polo_tone3:
-1f93d-1f3fe.png	🤽🏾	:water_polo_tone4:
-1f93d-1f3ff.png	🤽🏿	:water_polo_tone5:
-1f93e.png	🤾	:handball:
-1f93e-1f3fb.png	🤾🏻	:handball_tone1:
-1f93e-1f3fc.png	🤾🏼	:handball_tone2:
-1f93e-1f3fd.png	🤾🏽	:handball_tone3:
-1f93e-1f3fe.png	🤾🏾	:handball_tone4:
-1f93e-1f3ff.png	🤾🏿	:handball_tone5:
-1f939.png	🤹	:juggling:	:juggler:
-1f939-1f3fb.png	🤹🏻	:juggling_tone1:	:juggler_tone1:
-1f939-1f3fc.png	🤹🏼	:juggling_tone2:	:juggler_tone2:
-1f939-1f3fd.png	🤹🏽	:juggling_tone3:	:juggler_tone3:
-1f939-1f3fe.png	🤹🏾	:juggling_tone4:	:juggler_tone4:
-1f939-1f3ff.png	🤹🏿	:juggling_tone5:	:juggler_tone5:
-1f46b.png	👫	:couple:
-1f46c.png	👬	:two_men_holding_hands:
-1f46d.png	👭	:two_women_holding_hands:
-1f48f.png	💏	:couplekiss:
-1f468-2764-1f48b-1f468.png	👨❤💋👨	:kiss_mm:	:couplekiss_mm:
-1f469-2764-1f48b-1f469.png	👩❤💋👩	:kiss_ww:	:couplekiss_ww:
-1f491.png	💑	:couple_with_heart:
-1f468-2764-1f468.png	👨❤👨	:couple_mm:	:couple_with_heart_mm:
-1f469-2764-1f469.png	👩❤👩	:couple_ww:	:couple_with_heart_ww:
-1f46a.png	👪	:family:
-1f468-1f469-1f467.png	👨👩👧	:family_mwg:
-1f468-1f469-1f467-1f466.png	👨👩👧👦	:family_mwgb:
-1f468-1f469-1f466-1f466.png	👨👩👦👦	:family_mwbb:
-1f468-1f469-1f467-1f467.png	👨👩👧👧	:family_mwgg:
-1f468-1f468-1f466.png	👨👨👦	:family_mmb:
-1f468-1f468-1f467.png	👨👨👧	:family_mmg:
-1f468-1f468-1f467-1f466.png	👨👨👧👦	:family_mmgb:
-1f468-1f468-1f466-1f466.png	👨👨👦👦	:family_mmbb:
-1f468-1f468-1f467-1f467.png	👨👨👧👧	:family_mmgg:
-1f469-1f469-1f466.png	👩👩👦	:family_wwb:
-1f469-1f469-1f467.png	👩👩👧	:family_wwg:
-1f469-1f469-1f467-1f466.png	👩👩👧👦	:family_wwgb:
-1f469-1f469-1f466-1f466.png	👩👩👦👦	:family_wwbb:
-1f469-1f469-1f467-1f467.png	👩👩👧👧	:family_wwgg:
-1f3fb.png	🏻	:tone1:
-1f3fc.png	🏼	:tone2:
-1f3fd.png	🏽	:tone3:
-1f3fe.png	🏾	:tone4:
-1f3ff.png	🏿	:tone5:
-1f4aa.png	💪	:muscle:
-1f4aa-1f3fb.png	💪🏻	:muscle_tone1:
-1f4aa-1f3fc.png	💪🏼	:muscle_tone2:
-1f4aa-1f3fd.png	💪🏽	:muscle_tone3:
-1f4aa-1f3fe.png	💪🏾	:muscle_tone4:
-1f4aa-1f3ff.png	💪🏿	:muscle_tone5:
-1f933.png	🤳	:selfie:
-1f933-1f3fb.png	🤳🏻	:selfie_tone1:
-1f933-1f3fc.png	🤳🏼	:selfie_tone2:
-1f933-1f3fd.png	🤳🏽	:selfie_tone3:
-1f933-1f3fe.png	🤳🏾	:selfie_tone4:
-1f933-1f3ff.png	🤳🏿	:selfie_tone5:
-1f448.png	👈	:point_left:
-1f448-1f3fb.png	👈🏻	:point_left_tone1:
-1f448-1f3fc.png	👈🏼	:point_left_tone2:
-1f448-1f3fd.png	👈🏽	:point_left_tone3:
-1f448-1f3fe.png	👈🏾	:point_left_tone4:
-1f448-1f3ff.png	👈🏿	:point_left_tone5:
-1f449.png	👉	:point_right:
-1f449-1f3fb.png	👉🏻	:point_right_tone1:
-1f449-1f3fc.png	👉🏼	:point_right_tone2:
-1f449-1f3fd.png	👉🏽	:point_right_tone3:
-1f449-1f3fe.png	👉🏾	:point_right_tone4:
-1f449-1f3ff.png	👉🏿	:point_right_tone5:
-261d.png	☝	:point_up:
-261d-1f3fb.png	☝🏻	:point_up_tone1:
-261d-1f3fc.png	☝🏼	:point_up_tone2:
-261d-1f3fd.png	☝🏽	:point_up_tone3:
-261d-1f3fe.png	☝🏾	:point_up_tone4:
-261d-1f3ff.png	☝🏿	:point_up_tone5:
-1f446.png	👆	:point_up_2:
-1f446-1f3fb.png	👆🏻	:point_up_2_tone1:
-1f446-1f3fc.png	👆🏼	:point_up_2_tone2:
-1f446-1f3fd.png	👆🏽	:point_up_2_tone3:
-1f446-1f3fe.png	👆🏾	:point_up_2_tone4:
-1f446-1f3ff.png	👆🏿	:point_up_2_tone5:
-1f595.png	🖕	:middle_finger:	:reversed_hand_with_middle_finger_extended:
-1f595-1f3fb.png	🖕🏻	:middle_finger_tone1:	:reversed_hand_with_middle_finger_extended_tone1:
-1f595-1f3fc.png	🖕🏼	:middle_finger_tone2:	:reversed_hand_with_middle_finger_extended_tone2:
-1f595-1f3fd.png	🖕🏽	:middle_finger_tone3:	:reversed_hand_with_middle_finger_extended_tone3:
-1f595-1f3fe.png	🖕🏾	:middle_finger_tone4:	:reversed_hand_with_middle_finger_extended_tone4:
-1f595-1f3ff.png	🖕🏿	:middle_finger_tone5:	:reversed_hand_with_middle_finger_extended_tone5:
-1f447.png	👇	:point_down:
-1f447-1f3fb.png	👇🏻	:point_down_tone1:
-1f447-1f3fc.png	👇🏼	:point_down_tone2:
-1f447-1f3fd.png	👇🏽	:point_down_tone3:
-1f447-1f3fe.png	👇🏾	:point_down_tone4:
-1f447-1f3ff.png	👇🏿	:point_down_tone5:
-270c.png	✌	:v:
-270c-1f3fb.png	✌🏻	:v_tone1:
-270c-1f3fc.png	✌🏼	:v_tone2:
-270c-1f3fd.png	✌🏽	:v_tone3:
-270c-1f3fe.png	✌🏾	:v_tone4:
-270c-1f3ff.png	✌🏿	:v_tone5:
-1f91e.png	🤞	:fingers_crossed:	:hand_with_index_and_middle_finger_crossed:
-1f91e-1f3fb.png	🤞🏻	:fingers_crossed_tone1:	:hand_with_index_and_middle_fingers_crossed_tone1:
-1f91e-1f3fc.png	🤞🏼	:fingers_crossed_tone2:	:hand_with_index_and_middle_fingers_crossed_tone2:
-1f91e-1f3fd.png	🤞🏽	:fingers_crossed_tone3:	:hand_with_index_and_middle_fingers_crossed_tone3:
-1f91e-1f3fe.png	🤞🏾	:fingers_crossed_tone4:	:hand_with_index_and_middle_fingers_crossed_tone4:
-1f91e-1f3ff.png	🤞🏿	:fingers_crossed_tone5:	:hand_with_index_and_middle_fingers_crossed_tone5:
-1f596.png	🖖	:vulcan:	:raised_hand_with_part_between_middle_and_ring_fingers:
-1f596-1f3fb.png	🖖🏻	:vulcan_tone1:	:raised_hand_with_part_between_middle_and_ring_fingers_tone1:
-1f596-1f3fc.png	🖖🏼	:vulcan_tone2:	:raised_hand_with_part_between_middle_and_ring_fingers_tone2:
-1f596-1f3fd.png	🖖🏽	:vulcan_tone3:	:raised_hand_with_part_between_middle_and_ring_fingers_tone3:
-1f596-1f3fe.png	🖖🏾	:vulcan_tone4:	:raised_hand_with_part_between_middle_and_ring_fingers_tone4:
-1f596-1f3ff.png	🖖🏿	:vulcan_tone5:	:raised_hand_with_part_between_middle_and_ring_fingers_tone5:
-1f918.png	🤘	:metal:	:sign_of_the_horns:
-1f918-1f3fb.png	🤘🏻	:metal_tone1:	:sign_of_the_horns_tone1:
-1f918-1f3fc.png	🤘🏼	:metal_tone2:	:sign_of_the_horns_tone2:
-1f918-1f3fd.png	🤘🏽	:metal_tone3:	:sign_of_the_horns_tone3:
-1f918-1f3fe.png	🤘🏾	:metal_tone4:	:sign_of_the_horns_tone4:
-1f918-1f3ff.png	🤘🏿	:metal_tone5:	:sign_of_the_horns_tone5:
-1f919.png	🤙	:call_me:	:call_me_hand:
-1f919-1f3fb.png	🤙🏻	:call_me_tone1:	:call_me_hand_tone1:
-1f919-1f3fc.png	🤙🏼	:call_me_tone2:	:call_me_hand_tone2:
-1f919-1f3fd.png	🤙🏽	:call_me_tone3:	:call_me_hand_tone3:
-1f919-1f3fe.png	🤙🏾	:call_me_tone4:	:call_me_hand_tone4:
-1f919-1f3ff.png	🤙🏿	:call_me_tone5:	:call_me_hand_tone5:
-1f590.png	🖐	:hand_splayed:	:raised_hand_with_fingers_splayed:
-1f590-1f3fb.png	🖐🏻	:hand_splayed_tone1:	:raised_hand_with_fingers_splayed_tone1:
-1f590-1f3fc.png	🖐🏼	:hand_splayed_tone2:	:raised_hand_with_fingers_splayed_tone2:
-1f590-1f3fd.png	🖐🏽	:hand_splayed_tone3:	:raised_hand_with_fingers_splayed_tone3:
-1f590-1f3fe.png	🖐🏾	:hand_splayed_tone4:	:raised_hand_with_fingers_splayed_tone4:
-1f590-1f3ff.png	🖐🏿	:hand_splayed_tone5:	:raised_hand_with_fingers_splayed_tone5:
-270b.png	✋	:raised_hand:
-270b-1f3fb.png	✋🏻	:raised_hand_tone1:
-270b-1f3fc.png	✋🏼	:raised_hand_tone2:
-270b-1f3fd.png	✋🏽	:raised_hand_tone3:
-270b-1f3fe.png	✋🏾	:raised_hand_tone4:
-270b-1f3ff.png	✋🏿	:raised_hand_tone5:
-1f44c.png	👌	:ok_hand:
-1f44c-1f3fb.png	👌🏻	:ok_hand_tone1:
-1f44c-1f3fc.png	👌🏼	:ok_hand_tone2:
-1f44c-1f3fd.png	👌🏽	:ok_hand_tone3:
-1f44c-1f3fe.png	👌🏾	:ok_hand_tone4:
-1f44c-1f3ff.png	👌🏿	:ok_hand_tone5:
-1f44d.png	👍	:thumbsup:	:+1:	:thumbup:
-1f44d-1f3fb.png	👍🏻	:thumbsup_tone1:	:+1_tone1:	:thumbup_tone1:
-1f44d-1f3fc.png	👍🏼	:thumbsup_tone2:	:+1_tone2:	:thumbup_tone2:
-1f44d-1f3fd.png	👍🏽	:thumbsup_tone3:	:+1_tone3:	:thumbup_tone3:
-1f44d-1f3fe.png	👍🏾	:thumbsup_tone4:	:+1_tone4:	:thumbup_tone4:
-1f44d-1f3ff.png	👍🏿	:thumbsup_tone5:	:+1_tone5:	:thumbup_tone5:
-1f44e.png	👎	:thumbsdown:	:-1:	:thumbdown:
-1f44e-1f3fb.png	👎🏻	:thumbsdown_tone1:	:-1_tone1:	:thumbdown_tone1:
-1f44e-1f3fc.png	👎🏼	:thumbsdown_tone2:	:-1_tone2:	:thumbdown_tone2:
-1f44e-1f3fd.png	👎🏽	:thumbsdown_tone3:	:-1_tone3:	:thumbdown_tone3:
-1f44e-1f3fe.png	👎🏾	:thumbsdown_tone4:	:-1_tone4:	:thumbdown_tone4:
-1f44e-1f3ff.png	👎🏿	:thumbsdown_tone5:	:-1_tone5:	:thumbdown_tone5:
-270a.png	✊	:fist:
-270a-1f3fb.png	✊🏻	:fist_tone1:
-270a-1f3fc.png	✊🏼	:fist_tone2:
-270a-1f3fd.png	✊🏽	:fist_tone3:
-270a-1f3fe.png	✊🏾	:fist_tone4:
-270a-1f3ff.png	✊🏿	:fist_tone5:
-1f44a.png	👊	:punch:
-1f44a-1f3fb.png	👊🏻	:punch_tone1:
-1f44a-1f3fc.png	👊🏼	:punch_tone2:
-1f44a-1f3fd.png	👊🏽	:punch_tone3:
-1f44a-1f3fe.png	👊🏾	:punch_tone4:
-1f44a-1f3ff.png	👊🏿	:punch_tone5:
-1f91b.png	🤛	:left_facing_fist:	:left_fist:
-1f91b-1f3fb.png	🤛🏻	:left_facing_fist_tone1:	:left_fist_tone1:
-1f91b-1f3fc.png	🤛🏼	:left_facing_fist_tone2:	:left_fist_tone2:
-1f91b-1f3fd.png	🤛🏽	:left_facing_fist_tone3:	:left_fist_tone3:
-1f91b-1f3fe.png	🤛🏾	:left_facing_fist_tone4:	:left_fist_tone4:
-1f91b-1f3ff.png	🤛🏿	:left_facing_fist_tone5:	:left_fist_tone5:
-1f91c.png	🤜	:right_facing_fist:	:right_fist:
-1f91c-1f3fb.png	🤜🏻	:right_facing_fist_tone1:	:right_fist_tone1:
-1f91c-1f3fc.png	🤜🏼	:right_facing_fist_tone2:	:right_fist_tone2:
-1f91c-1f3fd.png	🤜🏽	:right_facing_fist_tone3:	:right_fist_tone3:
-1f91c-1f3fe.png	🤜🏾	:right_facing_fist_tone4:	:right_fist_tone4:
-1f91c-1f3ff.png	🤜🏿	:right_facing_fist_tone5:	:right_fist_tone5:
-1f91a.png	🤚	:raised_back_of_hand:	:back_of_hand:
-1f91a-1f3fb.png	🤚🏻	:raised_back_of_hand_tone1:	:back_of_hand_tone1:
-1f91a-1f3fc.png	🤚🏼	:raised_back_of_hand_tone2:	:back_of_hand_tone2:
-1f91a-1f3fd.png	🤚🏽	:raised_back_of_hand_tone3:	:back_of_hand_tone3:
-1f91a-1f3fe.png	🤚🏾	:raised_back_of_hand_tone4:	:back_of_hand_tone4:
-1f91a-1f3ff.png	🤚🏿	:raised_back_of_hand_tone5:	:back_of_hand_tone5:
-1f44b.png	👋	:wave:
-1f44b-1f3fb.png	👋🏻	:wave_tone1:
-1f44b-1f3fc.png	👋🏼	:wave_tone2:
-1f44b-1f3fd.png	👋🏽	:wave_tone3:
-1f44b-1f3fe.png	👋🏾	:wave_tone4:
-1f44b-1f3ff.png	👋🏿	:wave_tone5:
-1f44f.png	👏	:clap:
-1f44f-1f3fb.png	👏🏻	:clap_tone1:
-1f44f-1f3fc.png	👏🏼	:clap_tone2:
-1f44f-1f3fd.png	👏🏽	:clap_tone3:
-1f44f-1f3fe.png	👏🏾	:clap_tone4:
-1f44f-1f3ff.png	👏🏿	:clap_tone5:
-270d.png	✍	:writing_hand:
-270d-1f3fb.png	✍🏻	:writing_hand_tone1:
-270d-1f3fc.png	✍🏼	:writing_hand_tone2:
-270d-1f3fd.png	✍🏽	:writing_hand_tone3:
-270d-1f3fe.png	✍🏾	:writing_hand_tone4:
-270d-1f3ff.png	✍🏿	:writing_hand_tone5:
-1f450.png	👐	:open_hands:
-1f450-1f3fb.png	👐🏻	:open_hands_tone1:
-1f450-1f3fc.png	👐🏼	:open_hands_tone2:
-1f450-1f3fd.png	👐🏽	:open_hands_tone3:
-1f450-1f3fe.png	👐🏾	:open_hands_tone4:
-1f450-1f3ff.png	👐🏿	:open_hands_tone5:
-1f64c.png	🙌	:raised_hands:
-1f64c-1f3fb.png	🙌🏻	:raised_hands_tone1:
-1f64c-1f3fc.png	🙌🏼	:raised_hands_tone2:
-1f64c-1f3fd.png	🙌🏽	:raised_hands_tone3:
-1f64c-1f3fe.png	🙌🏾	:raised_hands_tone4:
-1f64c-1f3ff.png	🙌🏿	:raised_hands_tone5:
-1f64f.png	🙏	:pray:
-1f64f-1f3fb.png	🙏🏻	:pray_tone1:
-1f64f-1f3fc.png	🙏🏼	:pray_tone2:
-1f64f-1f3fd.png	🙏🏽	:pray_tone3:
-1f64f-1f3fe.png	🙏🏾	:pray_tone4:
-1f64f-1f3ff.png	🙏🏿	:pray_tone5:
-1f91d.png	🤝	:handshake:	:shaking_hands:
-1f91d-1f3fb.png	🤝🏻	:handshake_tone1:	:shaking_hands_tone1:
-1f91d-1f3fc.png	🤝🏼	:handshake_tone2:	:shaking_hands_tone2:
-1f91d-1f3fd.png	🤝🏽	:handshake_tone3:	:shaking_hands_tone3:
-1f91d-1f3fe.png	🤝🏾	:handshake_tone4:	:shaking_hands_tone4:
-1f91d-1f3ff.png	🤝🏿	:handshake_tone5:	:shaking_hands_tone5:
-1f485.png	💅	:nail_care:
-1f485-1f3fb.png	💅🏻	:nail_care_tone1:
-1f485-1f3fc.png	💅🏼	:nail_care_tone2:
-1f485-1f3fd.png	💅🏽	:nail_care_tone3:
-1f485-1f3fe.png	💅🏾	:nail_care_tone4:
-1f485-1f3ff.png	💅🏿	:nail_care_tone5:
-1f442.png	👂	:ear:
-1f442-1f3fb.png	👂🏻	:ear_tone1:
-1f442-1f3fc.png	👂🏼	:ear_tone2:
-1f442-1f3fd.png	👂🏽	:ear_tone3:
-1f442-1f3fe.png	👂🏾	:ear_tone4:
-1f442-1f3ff.png	👂🏿	:ear_tone5:
-1f443.png	👃	:nose:
-1f443-1f3fb.png	👃🏻	:nose_tone1:
-1f443-1f3fc.png	👃🏼	:nose_tone2:
-1f443-1f3fd.png	👃🏽	:nose_tone3:
-1f443-1f3fe.png	👃🏾	:nose_tone4:
-1f443-1f3ff.png	👃🏿	:nose_tone5:
-1f463.png	👣	:footprints:
-1f440.png	👀	:eyes:
-1f441.png	👁	:eye:
-1f441-1f5e8.png	👁🗨	:eye_in_speech_bubble:
-1f445.png	👅	:tongue:
-1f444.png	👄	:lips:
-1f48b.png	💋	:kiss:
-1f498.png	💘	:cupid:
-2764.png	❤	:heart:	<3
-1f493.png	💓	:heartbeat:
-1f494.png	💔	:broken_heart:	</3
-1f495.png	💕	:two_hearts:
-1f496.png	💖	:sparkling_heart:
-1f497.png	💗	:heartpulse:
-1f499.png	💙	:blue_heart:
-1f49a.png	💚	:green_heart:
-1f49b.png	💛	:yellow_heart:
-1f49c.png	💜	:purple_heart:
-1f5a4.png	🖤	:black_heart:
-1f49d.png	💝	:gift_heart:
-1f49e.png	💞	:revolving_hearts:
-1f49f.png	💟	:heart_decoration:
-2763.png	❣	:heart_exclamation:	:heavy_heart_exclamation_mark_ornament:
-1f48c.png	💌	:love_letter:
-1f4a4.png	💤	:zzz:
-1f4a2.png	💢	:anger:
-1f4a3.png	💣	:bomb:
-1f4a5.png	💥	:boom:
-1f4a6.png	💦	:sweat_drops:
-1f4a8.png	💨	:dash:
-1f4ab.png	💫	:dizzy:
-1f4ac.png	💬	:speech_balloon:
-1f5e8.png	🗨	:speech_left:	:left_speech_bubble:
-1f5ef.png	🗯	:anger_right:	:right_anger_bubble:
-1f4ad.png	💭	:thought_balloon:
-1f573.png	🕳	:hole:
-1f453.png	👓	:eyeglasses:
-1f576.png	🕶	:dark_sunglasses:
-1f454.png	👔	:necktie:
-1f455.png	👕	:shirt:
-1f456.png	👖	:jeans:
-1f457.png	👗	:dress:
-1f458.png	👘	:kimono:
-1f459.png	👙	:bikini:
-1f45a.png	👚	:womans_clothes:
-1f45b.png	👛	:purse:
-1f45c.png	👜	:handbag:
-1f45d.png	👝	:pouch:
-1f6cd.png	🛍	:shopping_bags:
-1f392.png	🎒	:school_satchel:
-1f45e.png	👞	:mans_shoe:
-1f45f.png	👟	:athletic_shoe:
-1f460.png	👠	:high_heel:
-1f461.png	👡	:sandal:
-1f462.png	👢	:boot:
-1f451.png	👑	:crown:
-1f452.png	👒	:womans_hat:
-1f3a9.png	🎩	:tophat:
-1f393.png	🎓	:mortar_board:
-26d1.png	⛑	:helmet_with_cross:	:helmet_with_white_cross:
-1f4ff.png	📿	:prayer_beads:
-1f484.png	💄	:lipstick:
-1f48d.png	💍	:ring:
-1f48e.png	💎	:gem:
-1f435.png	🐵	:monkey_face:
-1f412.png	🐒	:monkey:
-1f98d.png	🦍	:gorilla:
-1f436.png	🐶	:dog:
-1f415.png	🐕	:dog2:
-1f429.png	🐩	:poodle:
-1f43a.png	🐺	:wolf:
-1f98a.png	🦊	:fox:	:fox_face:
-1f431.png	🐱	:cat:
-1f408.png	🐈	:cat2:
-1f981.png	🦁	:lion_face:	:lion:
-1f42f.png	🐯	:tiger:
-1f405.png	🐅	:tiger2:
-1f406.png	🐆	:leopard:
-1f434.png	🐴	:horse:
-1f40e.png	🐎	:racehorse:
-1f98c.png	🦌	:deer:
-1f984.png	🦄	:unicorn:	:unicorn_face:
-1f42e.png	🐮	:cow:
-1f402.png	🐂	:ox:
-1f403.png	🐃	:water_buffalo:
-1f404.png	🐄	:cow2:
-1f437.png	🐷	:pig:
-1f416.png	🐖	:pig2:
-1f417.png	🐗	:boar:
-1f43d.png	🐽	:pig_nose:
-1f40f.png	🐏	:ram:
-1f411.png	🐑	:sheep:
-1f410.png	🐐	:goat:
-1f42a.png	🐪	:dromedary_camel:
-1f42b.png	🐫	:camel:
-1f418.png	🐘	:elephant:
-1f98f.png	🦏	:rhino:	:rhinoceros:
-1f42d.png	🐭	:mouse:
-1f401.png	🐁	:mouse2:
-1f400.png	🐀	:rat:
-1f439.png	🐹	:hamster:
-1f430.png	🐰	:rabbit:
-1f407.png	🐇	:rabbit2:
-1f43f.png	🐿	:chipmunk:
-1f987.png	🦇	:bat:
-1f43b.png	🐻	:bear:
-1f428.png	🐨	:koala:
-1f43c.png	🐼	:panda_face:
-1f43e.png	🐾	:feet:	:paw_prints:
-1f983.png	🦃	:turkey:
-1f414.png	🐔	:chicken:
-1f413.png	🐓	:rooster:
-1f423.png	🐣	:hatching_chick:
-1f424.png	🐤	:baby_chick:
-1f425.png	🐥	:hatched_chick:
-1f426.png	🐦	:bird:
-1f427.png	🐧	:penguin:
-1f54a.png	🕊	:dove:	:dove_of_peace:
-1f985.png	🦅	:eagle:
-1f986.png	🦆	:duck:
-1f989.png	🦉	:owl:
-1f438.png	🐸	:frog:
-1f40a.png	🐊	:crocodile:
-1f422.png	🐢	:turtle:
-1f98e.png	🦎	:lizard:
-1f40d.png	🐍	:snake:
-1f432.png	🐲	:dragon_face:
-1f409.png	🐉	:dragon:
-1f433.png	🐳	:whale:
-1f40b.png	🐋	:whale2:
-1f42c.png	🐬	:dolphin:
-1f41f.png	🐟	:fish:
-1f420.png	🐠	:tropical_fish:
-1f421.png	🐡	:blowfish:
-1f988.png	🦈	:shark:
-1f419.png	🐙	:octopus:
-1f41a.png	🐚	:shell:
-1f980.png	🦀	:crab:
-1f990.png	🦐	:shrimp:
-1f991.png	🦑	:squid:
-1f98b.png	🦋	:butterfly:
-1f40c.png	🐌	:snail:
-1f41b.png	🐛	:bug:
-1f41c.png	🐜	:ant:
-1f41d.png	🐝	:bee:
-1f41e.png	🐞	:beetle:
-1f577.png	🕷	:spider:
-1f578.png	🕸	:spider_web:
-1f982.png	🦂	:scorpion:
-1f490.png	💐	:bouquet:
-1f338.png	🌸	:cherry_blossom:
-1f4ae.png	💮	:white_flower:
-1f3f5.png	🏵	:rosette:
-1f339.png	🌹	:rose:
-1f940.png	🥀	:wilted_rose:	:wilted_flower:
-1f33a.png	🌺	:hibiscus:
-1f33b.png	🌻	:sunflower:
-1f33c.png	🌼	:blossom:
-1f337.png	🌷	:tulip:
-1f331.png	🌱	:seedling:
-1f332.png	🌲	:evergreen_tree:
-1f333.png	🌳	:deciduous_tree:
-1f334.png	🌴	:palm_tree:
-1f335.png	🌵	:cactus:
-1f33e.png	🌾	:ear_of_rice:
-1f33f.png	🌿	:herb:
-2618.png	☘	:shamrock:
-1f340.png	🍀	:four_leaf_clover:
-1f341.png	🍁	:maple_leaf:
-1f342.png	🍂	:fallen_leaf:
-1f343.png	🍃	:leaves:
-1f347.png	🍇	:grapes:
-1f348.png	🍈	:melon:
-1f349.png	🍉	:watermelon:
-1f34a.png	🍊	:tangerine:
-1f34b.png	🍋	:lemon:
-1f34c.png	🍌	:banana:
-1f34d.png	🍍	:pineapple:
-1f34e.png	🍎	:apple:
-1f34f.png	🍏	:green_apple:
-1f350.png	🍐	:pear:
-1f351.png	🍑	:peach:
-1f352.png	🍒	:cherries:
-1f353.png	🍓	:strawberry:
-1f95d.png	🥝	:kiwi:	:kiwifruit:
-1f345.png	🍅	:tomato:
-1f951.png	🥑	:avocado:
-1f346.png	🍆	:eggplant:
-1f954.png	🥔	:potato:
-1f955.png	🥕	:carrot:
-1f33d.png	🌽	:corn:
-1f336.png	🌶	:hot_pepper:
-1f952.png	🥒	:cucumber:
-1f344.png	🍄	:mushroom:
-1f95c.png	🥜	:peanuts:	:shelled_peanut:
-1f330.png	🌰	:chestnut:
-1f35e.png	🍞	:bread:
-1f950.png	🥐	:croissant:
-1f956.png	🥖	:french_bread:	:baguette_bread:
-1f95e.png	🥞	:pancakes:
-1f9c0.png	🧀	:cheese:	:cheese_wedge:
-1f356.png	🍖	:meat_on_bone:
-1f357.png	🍗	:poultry_leg:
-1f953.png	🥓	:bacon:
-1f354.png	🍔	:hamburger:
-1f35f.png	🍟	:fries:
-1f355.png	🍕	:pizza:
-1f32d.png	🌭	:hotdog:	:hot_dog:
-1f32e.png	🌮	:taco:
-1f32f.png	🌯	:burrito:
-1f959.png	🥙	:stuffed_flatbread:	:stuffed_pita:
-1f95a.png	🥚	:egg:
-1f373.png	🍳	:cooking:
-1f958.png	🥘	:shallow_pan_of_food:	:paella:
-1f372.png	🍲	:stew:
-1f957.png	🥗	:salad:	:green_salad:
-1f37f.png	🍿	:popcorn:
-1f371.png	🍱	:bento:
-1f358.png	🍘	:rice_cracker:
-1f359.png	🍙	:rice_ball:
-1f35a.png	🍚	:rice:
-1f35b.png	🍛	:curry:
-1f35c.png	🍜	:ramen:
-1f35d.png	🍝	:spaghetti:
-1f360.png	🍠	:sweet_potato:
-1f362.png	🍢	:oden:
-1f363.png	🍣	:sushi:
-1f364.png	🍤	:fried_shrimp:
-1f365.png	🍥	:fish_cake:
-1f361.png	🍡	:dango:
-1f366.png	🍦	:icecream:
-1f367.png	🍧	:shaved_ice:
-1f368.png	🍨	:ice_cream:
-1f369.png	🍩	:doughnut:
-1f36a.png	🍪	:cookie:
-1f382.png	🎂	:birthday:
-1f370.png	🍰	:cake:
-1f36b.png	🍫	:chocolate_bar:
-1f36c.png	🍬	:candy:
-1f36d.png	🍭	:lollipop:
-1f36e.png	🍮	:custard:	:pudding:	:flan:
+1f600.png	😀	:grinning:													
+1f601.png	😁	:grin:													
+1f602.png	😂	:joy:	:')	:'-)											
+1f603.png	😃	:smiley:	:D	:-D	=d										
+1f604.png	😄	:smile:													
+1f605.png	😅	:sweat_smile:	':)	':-)	'=)	':D	':-D	'=D							
+1f606.png	😆	:laughing:	:satisfied:	>:)	>;)	>:-)	>=)								
+1f607.png	😇	:innocent:	O:-)	0:-3	0:3	0:-)	0:)	0;^)	O:)	O;-)	O=)	0;-)	O:-3	O:3	
+1f608.png	😈	:smiling_imp:													
+1f609.png	😉	:wink:	;)	;-)	*-)	*)	;-]	;]	;D	;^)					
+1f60a.png	😊	:blush:													
+1f60b.png	😋	:yum:													
+1f60c.png	😌	:relieved:													
+1f60d.png	😍	:heart_eyes:													
+1f60e.png	😎	:sunglasses:	B-)	B)	8)	8-)	B-D	8-D							
+1f60f.png	😏	:smirk:													
+1f610.png	😐	:neutral_face:													
+1f611.png	😑	:expressionless:	-_-	-__-	-___-										
+1f612.png	😒	:unamused:													
+1f613.png	😓	:sweat:	':(	':-(	'=(										
+1f614.png	😔	:pensive:													
+1f615.png	😕	:confused:	>:\	>:/	:-/	:-.	:/	:\		=$$\	:L	=l			
+1f616.png	😖	:confounded:													
+1f617.png	😗	:kissing:													
+1f618.png	😘	:kissing_heart:	:*	:-*		:^*									
+1f619.png	😙	:kissing_smiling_eyes:													
+1f61a.png	😚	:kissing_closed_eyes:													
+1f61b.png	😛	:stuck_out_tongue:	:P	:-P	=p	:-p	:p	=p	:-Þ	:Þ	:þ	:-þ	:-b	:b	d:
+1f61c.png	😜	:stuck_out_tongue_winking_eye:	>:P	X-P	x-p										
+1f61d.png	😝	:stuck_out_tongue_closed_eyes:													
+1f61e.png	😞	:disappointed:	>:[	:-(	:(	:-[	:[								
+1f61f.png	😟	:worried:													
+1f620.png	😠	:angry:	>:(	>:-(	:@										
+1f621.png	😡	:rage:													
+1f622.png	😢	:cry:	:'(	:'-(	;(	;-(									
+1f623.png	😣	:persevere:	>.<												
+1f624.png	😤	:triumph:													
+1f625.png	😥	:disappointed_relieved:													
+1f626.png	😦	:frowning:													
+1f627.png	😧	:anguished:													
+1f628.png	😨	:fearful:	D:												
+1f629.png	😩	:weary:													
+1f62a.png	😪	:sleepy:													
+1f62b.png	😫	:tired_face:													
+1f62c.png	😬	:grimacing:													
+1f62d.png	😭	:sob:													
+1f62e.png	😮	:open_mouth:	:-O	:O	:-o	:o	O_O	>:O							
+1f62f.png	😯	:hushed:													
+1f630.png	😰	:cold_sweat:													
+1f631.png	😱	:scream:													
+1f632.png	😲	:astonished:													
+1f633.png	😳	:flushed:	:$												
+1f634.png	😴	:sleeping:													
+1f635.png	😵	:dizzy_face:	#-)	#)	%-)	%)	X)	X-)							
+1f636.png	😶	:no_mouth:	:-X	:X	:-#	:#	=x	=x	:x	:-x					
+1f637.png	😷	:mask:													
+1f638.png	😸	:smile_cat:													
+1f639.png	😹	:joy_cat:													
+1f63a.png	😺	:smiley_cat:													
+1f63b.png	😻	:heart_eyes_cat:													
+1f63c.png	😼	:smirk_cat:													
+1f63d.png	😽	:kissing_cat:													
+1f63e.png	😾	:pouting_cat:													
+1f63f.png	😿	:crying_cat_face:													
+1f640.png	🙀	:scream_cat:													
+1f641.png	🙁	:slight_frown:	:slightly_frowning_face:												
+1f642.png	🙂	:slight_smile:	:slightly_smiling_face:	:)	:-)			:]							
+1f643.png	🙃	:upside_down:	:upside_down_face:												
+1f644.png	🙄	:rolling_eyes:	:face_with_rolling_eyes:												
+1f648.png	🙈	:see_no_evil:													
+1f649.png	🙉	:hear_no_evil:													
+1f64a.png	🙊	:speak_no_evil:													
+1f64c.png	🙌	:raised_hands:													
+1f64f.png	🙏	:pray:													
+1f680.png	🚀	:rocket:													
+1f682.png	🚂	:steam_locomotive:													
+1f686.png	🚆	:train2:													
+1f68c.png	🚌	:bus:													
+1f68d.png	🚍	:oncoming_bus:													
+1f691.png	🚑	:ambulance:													
+1f692.png	🚒	:fire_engine:													
+1f694.png	🚔	:oncoming_police_car:													
+1f696.png	🚖	:oncoming_taxi:													
+1f69c.png	🚜	:tractor:													
+1f69d.png	🚝	:monorail:													
+1f6b2.png	🚲	:bike:													
+1f6cf.png	🛏	:bed:													
+1f6d2.png	🛒	:shopping_cart:	:shopping_trolley:												
+1f6e0.png	🛠	:tools:	:hammer_and_wrench:												
+1f6e1.png	🛡	:shield:													
+1f6f4.png	🛴	:scooter:													
+1f6f6.png	🛶	:canoe:	:kayak:												
+1f910.png	🤐	:zipper_mouth:	:zipper_mouth_face:												
+1f911.png	🤑	:money_mouth:	:money_mouth_face:												
+1f912.png	🤒	:thermometer_face:	:face_with_thermometer:												
+1f913.png	🤓	:nerd:	:nerd_face:												
+1f914.png	🤔	:thinking:	:thinking_face:												
+1f915.png	🤕	:head_bandage:	:face_with_head_bandage:												
+1f916.png	🤖	:robot:	:robot_face:												
+1f917.png	🤗	:hugging:	:hugging_face:												
+1f918.png	🤘	:metal:	:sign_of_the_horns:												
+1f919.png	🤙	:call_me:	:call_me_hand:												
+1f91a.png	🤚	:raised_back_of_hand:	:back_of_hand:												
+1f91b.png	🤛	:left_facing_fist:	:left_fist:												
+1f91c.png	🤜	:right_facing_fist:	:right_fist:												
+1f91d.png	🤝	:handshake:	:shaking_hands:												
+1f91e.png	🤞	:fingers_crossed:	:hand_with_index_and_middle_finger_crossed:												
+1f920.png	🤠	:cowboy:	:face_with_cowboy_hat:												
+1f921.png	🤡	:clown:	:clown_face:												
+1f922.png	🤢	:nauseated_face:	:sick:												
+1f923.png	🤣	:rofl:	:rolling_on_the_floor_laughing:												
+1f924.png	🤤	:drooling_face:	:drool:												
+1f925.png	🤥	:lying_face:	:liar:												
+1f926.png	🤦	:face_palm:	:facepalm:												
+1f927.png	🤧	:sneezing_face:	:sneeze:												
+1f940.png	🥀	:wilted_rose:	:wilted_flower:												
+1f941.png	🥁	:drum:	:drum_with_drumsticks:												
+1f942.png	🥂	:champagne_glass:	:clinking_glass:												
+1f943.png	🥃	:tumbler_glass:	:whisky:												
+1f94a.png	🥊	:boxing_glove:	:boxing_gloves:												
+1f94b.png	🥋	:martial_arts_uniform:	:karate_uniform:												
+1f951.png	🥑	:avocado:													
+1f953.png	🥓	:bacon:													
+1f957.png	🥗	:salad:	:green_salad:												
+1f959.png	🥙	:stuffed_flatbread:	:stuffed_pita:												
+1f95a.png	🥚	:egg:													
+1f95c.png	🥜	:peanuts:	:shelled_peanut:												
+1f95d.png	🥝	:kiwi:	:kiwifruit:												
+1f95e.png	🥞	:pancakes:													
+1f980.png	🦀	:crab:													
+1f981.png	🦁	:lion_face:	:lion:												
+1f982.png	🦂	:scorpion:													
+1f983.png	🦃	:turkey:													
+1f984.png	🦄	:unicorn:	:unicorn_face:												
+1f985.png	🦅	:eagle:													
+1f986.png	🦆	:duck:													
+1f987.png	🦇	:bat:													
+1f988.png	🦈	:shark:													
+1f989.png	🦉	:owl:													
+1f98a.png	🦊	:fox:	:fox_face:												
+1f98b.png	🦋	:butterfly:													
+1f98c.png	🦌	:deer:													
+1f98d.png	🦍	:gorilla:													
+1f98e.png	🦎	:lizard:													
+1f98f.png	🦏	:rhino:	:rhinoceros:												
+1f990.png	🦐	:shrimp:													
+1f991.png	🦑	:squid:													
+1f9c0.png	🧀	:cheese:	:cheese_wedge:												
+203c.png	‼	:bangbang:													
+2049.png	⁉	:interrobang:													
+23f0.png	⏰	:alarm_clock:													
+23f3.png	⏳	:hourglass_flowing_sand:													
+2601.png	☁	:cloud:													
+2602.png	☂	:umbrella2:													
+2604.png	☄	:comet:													
+2614.png	☔	:umbrella:													
+2615.png	☕	:coffee:													
+2618.png	☘	:shamrock:													
+261d.png	☝	:point_up:													
+2620.png	☠	:skull_crossbones:	:skull_and_crossbones:												
+262e.png	☮	:peace:	:peace_symbol:												
+2639.png	☹	:frowning2:	:white_frowning_face:												
+263a.png	☺	:relaxed:													
+267b.png	♻	:recycle:													
+2692.png	⚒	:hammer_pick:	:hammer_and_pick:												
+2693.png	⚓	:anchor:													
+2694.png	⚔	:crossed_swords:													
+2696.png	⚖	:scales:													
+26bd.png	⚽	:soccer:													
+26be.png	⚾	:baseball:													
+26c4.png	⛄	:snowman:													
+26c5.png	⛅	:partly_sunny:													
+26c8.png	⛈	:thunder_cloud_rain:	:thunder_cloud_and_rain:												
+26f1.png	⛱	:beach_umbrella:	:umbrella_on_ground:												
+26f8.png	⛸	:ice_skate:													
+26f9.png	⛹	:basketball_player:	:person_with_ball:												
+26fd.png	⛽	:fuelpump:													
+2708.png	✈	:airplane:													
+2709.png	✉	:envelope:													
+270a.png	✊	:fist:													
+270b.png	✋	:raised_hand:													
+270c.png	✌	:v:													
+270d.png	✍	:writing_hand:													
+2744.png	❄	:snowflake:													
+2753.png	❓	:question:													
+2757.png	❗	:exclamation:													
+2764.png	❤	:heart:	<3																				
+1f308.png	🌈	:rainbow:													
+1f30b.png	🌋	:volcano:													
+1f30d.png	🌍	:earth_africa:													
+1f30e.png	🌎	:earth_americas:													
+1f30f.png	🌏	:earth_asia:													
+1f31c.png	🌜	:last_quarter_moon_with_face:													
+1f31d.png	🌝	:full_moon_with_face:													
+1f31e.png	🌞	:sun_with_face:													
+1f31f.png	🌟	:star2:													
+1f325.png	🌥	:white_sun_cloud:	:white_sun_behind_cloud:												
+1f326.png	🌦	:white_sun_rain_cloud:	:white_sun_behind_cloud_with_rain:												
+1f327.png	🌧	:cloud_rain:	:cloud_with_rain:												
+1f328.png	🌨	:cloud_snow:	:cloud_with_snow:												
+1f329.png	🌩	:cloud_lightning:	:cloud_with_lightning:												
+1f32a.png	🌪	:cloud_tornado:	:cloud_with_tornado:												
+1f32d.png	🌭	:hotdog:	:hot_dog:												
+1f32e.png	🌮	:taco:													
+1f32f.png	🌯	:burrito:													
+1f333.png	🌳	:deciduous_tree:													
+1f334.png	🌴	:palm_tree:													
+1f337.png	🌷	:tulip:													
+1f338.png	🌸	:cherry_blossom:													
+1f339.png	🌹	:rose:													
+1f33a.png	🌺	:hibiscus:													
+1f33b.png	🌻	:sunflower:													
+1f33d.png	🌽	:corn:													
+1f340.png	🍀	:four_leaf_clover:													
+1f341.png	🍁	:maple_leaf:													
+1f345.png	🍅	:tomato:													
+1f347.png	🍇	:grapes:													
+1f348.png	🍈	:melon:													
+1f349.png	🍉	:watermelon:													
+1f34c.png	🍌	:banana:													
+1f34d.png	🍍	:pineapple:													
+1f352.png	🍒	:cherries:													
+1f353.png	🍓	:strawberry:													
+1f354.png	🍔	:hamburger:													
+1f355.png	🍕	:pizza:													
+1f356.png	🍖	:meat_on_bone:													
+1f35c.png	🍜	:ramen:													
+1f35d.png	🍝	:spaghetti:													
+1f35e.png	🍞	:bread:													
+1f35f.png	🍟	:fries:													
+1f363.png	🍣	:sushi:													
+1f364.png	🍤	:fried_shrimp:													
+1f365.png	🍥	:fish_cake:													
+1f366.png	🍦	:icecream:													
+1f367.png	🍧	:shaved_ice:													
+1f368.png	🍨	:ice_cream:													
+1f369.png	🍩	:doughnut:													
+1f36a.png	🍪	:cookie:													
+1f36b.png	🍫	:chocolate_bar:													
+1f36c.png	🍬	:candy:													
+1f36d.png	🍭	:lollipop:													
 1f36f.png	🍯	:honey_pot:
-1f37c.png	🍼	:baby_bottle:
-1f95b.png	🥛	:milk:	:glass_of_milk:
-2615.png	☕	:coffee:
-1f375.png	🍵	:tea:
-1f376.png	🍶	:sake:
-1f37e.png	🍾	:champagne:	:bottle_with_popping_cork:
-1f377.png	🍷	:wine_glass:
-1f378.png	🍸	:cocktail:
-1f379.png	🍹	:tropical_drink:
-1f37a.png	🍺	:beer:
-1f37b.png	🍻	:beers:
-1f942.png	🥂	:champagne_glass:	:clinking_glass:
-1f943.png	🥃	:tumbler_glass:	:whisky:
-1f37d.png	🍽	:fork_knife_plate:	:fork_and_knife_with_plate:
-1f374.png	🍴	:fork_and_knife:
-1f944.png	🥄	:spoon:
-1f52a.png	🔪	:knife:
-1f3fa.png	🏺	:amphora:
-1f30d.png	🌍	:earth_africa:
-1f30e.png	🌎	:earth_americas:
-1f30f.png	🌏	:earth_asia:
-1f310.png	🌐	:globe_with_meridians:
-1f5fa.png	🗺	:map:	:world_map:
-1f5fe.png	🗾	:japan:
-1f3d4.png	🏔	:mountain_snow:	:snow_capped_mountain:
-26f0.png	⛰	:mountain:
-1f30b.png	🌋	:volcano:
-1f5fb.png	🗻	:mount_fuji:
-1f3d5.png	🏕	:camping:
-1f3d6.png	🏖	:beach:	:beach_with_umbrella:
-1f3dc.png	🏜	:desert:
-1f3dd.png	🏝	:island:	:desert_island:
-1f3de.png	🏞	:park:	:national_park:
-1f3df.png	🏟	:stadium:
-1f3db.png	🏛	:classical_building:
-1f3d7.png	🏗	:construction_site:	:building_construction:
-1f3d8.png	🏘	:homes:	:house_buildings:
-1f3d9.png	🏙	:cityscape:
-1f3da.png	🏚	:house_abandoned:	:derelict_house_building:
-1f3e0.png	🏠	:house:
-1f3e1.png	🏡	:house_with_garden:
-1f3e2.png	🏢	:office:
-1f3e3.png	🏣	:post_office:
-1f3e4.png	🏤	:european_post_office:
-1f3e5.png	🏥	:hospital:
-1f3e6.png	🏦	:bank:
-1f3e8.png	🏨	:hotel:
-1f3e9.png	🏩	:love_hotel:
-1f3ea.png	🏪	:convenience_store:
-1f3eb.png	🏫	:school:
-1f3ec.png	🏬	:department_store:
-1f3ed.png	🏭	:factory:
-1f3ef.png	🏯	:japanese_castle:
-1f3f0.png	🏰	:european_castle:
-1f492.png	💒	:wedding:
-1f5fc.png	🗼	:tokyo_tower:
-1f5fd.png	🗽	:statue_of_liberty:
-26ea.png	⛪	:church:
-1f54c.png	🕌	:mosque:
-1f54d.png	🕍	:synagogue:
-26e9.png	⛩	:shinto_shrine:
-1f54b.png	🕋	:kaaba:
-26f2.png	⛲	:fountain:
-26fa.png	⛺	:tent:
-1f301.png	🌁	:foggy:
-1f303.png	🌃	:night_with_stars:
-1f304.png	🌄	:sunrise_over_mountains:
-1f305.png	🌅	:sunrise:
-1f306.png	🌆	:city_dusk:
-1f307.png	🌇	:city_sunset:	:city_sunrise:
-1f309.png	🌉	:bridge_at_night:
-2668.png	♨	:hotsprings:
-1f30c.png	🌌	:milky_way:
-1f3a0.png	🎠	:carousel_horse:
-1f3a1.png	🎡	:ferris_wheel:
-1f3a2.png	🎢	:roller_coaster:
-1f488.png	💈	:barber:
-1f3aa.png	🎪	:circus_tent:
-1f3ad.png	🎭	:performing_arts:
-1f5bc.png	🖼	:frame_photo:	:frame_with_picture:
-1f3a8.png	🎨	:art:
-1f3b0.png	🎰	:slot_machine:
-1f682.png	🚂	:steam_locomotive:
-1f683.png	🚃	:railway_car:
-1f684.png	🚄	:bullettrain_side:
-1f685.png	🚅	:bullettrain_front:
-1f686.png	🚆	:train2:
-1f687.png	🚇	:metro:
-1f688.png	🚈	:light_rail:
-1f689.png	🚉	:station:
-1f68a.png	🚊	:tram:
-1f69d.png	🚝	:monorail:
-1f69e.png	🚞	:mountain_railway:
-1f68b.png	🚋	:train:
-1f68c.png	🚌	:bus:
-1f68d.png	🚍	:oncoming_bus:
-1f68e.png	🚎	:trolleybus:
-1f690.png	🚐	:minibus:
-1f691.png	🚑	:ambulance:
-1f692.png	🚒	:fire_engine:
-1f693.png	🚓	:police_car:
-1f694.png	🚔	:oncoming_police_car:
-1f695.png	🚕	:taxi:
-1f696.png	🚖	:oncoming_taxi:
-1f697.png	🚗	:red_car:
-1f698.png	🚘	:oncoming_automobile:
-1f699.png	🚙	:blue_car:
-1f69a.png	🚚	:truck:
-1f69b.png	🚛	:articulated_lorry:
-1f69c.png	🚜	:tractor:
-1f6b2.png	🚲	:bike:
-1f6f4.png	🛴	:scooter:
-1f6f5.png	🛵	:motor_scooter:	:motorbike:
-1f68f.png	🚏	:busstop:
-1f6e3.png	🛣	:motorway:
-1f6e4.png	🛤	:railway_track:	:railroad_track:
-26fd.png	⛽	:fuelpump:
-1f6a8.png	🚨	:rotating_light:
-1f6a5.png	🚥	:traffic_light:
-1f6a6.png	🚦	:vertical_traffic_light:
-1f6a7.png	🚧	:construction:
-1f6d1.png	🛑	:octagonal_sign:	:stop_sign:
-2693.png	⚓	:anchor:
-26f5.png	⛵	:sailboat:
-1f6f6.png	🛶	:canoe:	:kayak:
-1f6a4.png	🚤	:speedboat:
-1f6f3.png	🛳	:cruise_ship:	:passenger_ship:
-26f4.png	⛴	:ferry:
-1f6e5.png	🛥	:motorboat:
-1f6a2.png	🚢	:ship:
-2708.png	✈	:airplane:
-1f6e9.png	🛩	:airplane_small:	:small_airplane:
-1f6eb.png	🛫	:airplane_departure:
-1f6ec.png	🛬	:airplane_arriving:
-1f4ba.png	💺	:seat:
-1f681.png	🚁	:helicopter:
-1f69f.png	🚟	:suspension_railway:
-1f6a0.png	🚠	:mountain_cableway:
-1f6a1.png	🚡	:aerial_tramway:
-1f680.png	🚀	:rocket:
-1f6f0.png	🛰	:satellite_orbital:
-1f6ce.png	🛎	:bellhop:	:bellhop_bell:
-1f6aa.png	🚪	:door:
-1f6cc.png	🛌	:sleeping_accommodation:
-1f6cf.png	🛏	:bed:
-1f6cb.png	🛋	:couch:	:couch_and_lamp:
-1f6bd.png	🚽	:toilet:
-1f6bf.png	🚿	:shower:
-1f6c0.png	🛀	:bath:
-1f6c0-1f3fb.png	🛀🏻	:bath_tone1:
-1f6c0-1f3fc.png	🛀🏼	:bath_tone2:
-1f6c0-1f3fd.png	🛀🏽	:bath_tone3:
-1f6c0-1f3fe.png	🛀🏾	:bath_tone4:
-1f6c0-1f3ff.png	🛀🏿	:bath_tone5:
-1f6c1.png	🛁	:bathtub:
-231b.png	⌛	:hourglass:
-23f3.png	⏳	:hourglass_flowing_sand:
-231a.png	⌚	:watch:
-23f0.png	⏰	:alarm_clock:
-23f1.png	⏱	:stopwatch:
-23f2.png	⏲	:timer:	:timer_clock:
-1f570.png	🕰	:clock:	:mantlepiece_clock:
-1f55b.png	🕛	:clock12:
-1f567.png	🕧	:clock1230:
-1f550.png	🕐	:clock1:
-1f55c.png	🕜	:clock130:
-1f551.png	🕑	:clock2:
-1f55d.png	🕝	:clock230:
-1f552.png	🕒	:clock3:
-1f55e.png	🕞	:clock330:
-1f553.png	🕓	:clock4:
-1f55f.png	🕟	:clock430:
-1f554.png	🕔	:clock5:
-1f560.png	🕠	:clock530:
-1f555.png	🕕	:clock6:
-1f561.png	🕡	:clock630:
-1f556.png	🕖	:clock7:
-1f562.png	🕢	:clock730:
-1f557.png	🕗	:clock8:
-1f563.png	🕣	:clock830:
-1f558.png	🕘	:clock9:
-1f564.png	🕤	:clock930:
-1f559.png	🕙	:clock10:
-1f565.png	🕥	:clock1030:
-1f55a.png	🕚	:clock11:
-1f566.png	🕦	:clock1130:
-1f311.png	🌑	:new_moon:
-1f312.png	🌒	:waxing_crescent_moon:
-1f313.png	🌓	:first_quarter_moon:
-1f314.png	🌔	:waxing_gibbous_moon:
-1f315.png	🌕	:full_moon:
-1f316.png	🌖	:waning_gibbous_moon:
-1f317.png	🌗	:last_quarter_moon:
-1f318.png	🌘	:waning_crescent_moon:
-1f319.png	🌙	:crescent_moon:
-1f31a.png	🌚	:new_moon_with_face:
-1f31b.png	🌛	:first_quarter_moon_with_face:
-1f31c.png	🌜	:last_quarter_moon_with_face:
-1f321.png	🌡	:thermometer:
-2600.png	☀	:sunny:
-1f31d.png	🌝	:full_moon_with_face:
-1f31e.png	🌞	:sun_with_face:
-2b50.png	⭐	:star:
-1f31f.png	🌟	:star2:
-1f320.png	🌠	:stars:
-2601.png	☁	:cloud:
-26c5.png	⛅	:partly_sunny:
-26c8.png	⛈	:thunder_cloud_rain:	:thunder_cloud_and_rain:
-1f324.png	🌤	:white_sun_small_cloud:	:white_sun_with_small_cloud:
-1f325.png	🌥	:white_sun_cloud:	:white_sun_behind_cloud:
-1f326.png	🌦	:white_sun_rain_cloud:	:white_sun_behind_cloud_with_rain:
-1f327.png	🌧	:cloud_rain:	:cloud_with_rain:
-1f328.png	🌨	:cloud_snow:	:cloud_with_snow:
-1f329.png	🌩	:cloud_lightning:	:cloud_with_lightning:
-1f32a.png	🌪	:cloud_tornado:	:cloud_with_tornado:
-1f32b.png	🌫	:fog:
-1f32c.png	🌬	:wind_blowing_face:
-1f300.png	🌀	:cyclone:
-1f308.png	🌈	:rainbow:
-1f302.png	🌂	:closed_umbrella:
-2602.png	☂	:umbrella2:
-2614.png	☔	:umbrella:
-26f1.png	⛱	:beach_umbrella:	:umbrella_on_ground:
-26a1.png	⚡	:zap:
-2744.png	❄	:snowflake:
-2603.png	☃	:snowman2:
-26c4.png	⛄	:snowman:
-2604.png	☄	:comet:
-1f525.png	🔥	:fire:	:flame:
-1f4a7.png	💧	:droplet:
-1f30a.png	🌊	:ocean:
-1f383.png	🎃	:jack_o_lantern:
-1f384.png	🎄	:christmas_tree:
-1f386.png	🎆	:fireworks:
-1f387.png	🎇	:sparkler:
-2728.png	✨	:sparkles:
-1f388.png	🎈	:balloon:
-1f389.png	🎉	:tada:
-1f38a.png	🎊	:confetti_ball:
-1f38b.png	🎋	:tanabata_tree:
-1f38d.png	🎍	:bamboo:
-1f38e.png	🎎	:dolls:
-1f38f.png	🎏	:flags:
-1f390.png	🎐	:wind_chime:
-1f391.png	🎑	:rice_scene:
-1f380.png	🎀	:ribbon:
-1f381.png	🎁	:gift:
-1f397.png	🎗	:reminder_ribbon:
-1f39f.png	🎟	:tickets:	:admission_tickets:
-1f3ab.png	🎫	:ticket:
-1f396.png	🎖	:military_medal:
-1f3c6.png	🏆	:trophy:
-1f3c5.png	🏅	:medal:	:sports_medal:
-1f947.png	🥇	:first_place:	:first_place_medal:
-1f948.png	🥈	:second_place:	:second_place_medal:
-1f949.png	🥉	:third_place:	:third_place_medal:
-26bd.png	⚽	:soccer:
-26be.png	⚾	:baseball:
-1f3c0.png	🏀	:basketball:
-1f3d0.png	🏐	:volleyball:
-1f3c8.png	🏈	:football:
-1f3c9.png	🏉	:rugby_football:
-1f3be.png	🎾	:tennis:
-1f3b1.png	🎱	:8ball:
-1f3b3.png	🎳	:bowling:
-1f3cf.png	🏏	:cricket:	:cricket_bat_ball:
-1f3d1.png	🏑	:field_hockey:
-1f3d2.png	🏒	:hockey:
-1f3d3.png	🏓	:ping_pong:	:table_tennis:
-1f3f8.png	🏸	:badminton:
-1f94a.png	🥊	:boxing_glove:	:boxing_gloves:
-1f94b.png	🥋	:martial_arts_uniform:	:karate_uniform:
-1f945.png	🥅	:goal:	:goal_net:
-1f3af.png	🎯	:dart:
-26f3.png	⛳	:golf:
-26f8.png	⛸	:ice_skate:
-1f3a3.png	🎣	:fishing_pole_and_fish:
-1f3bd.png	🎽	:running_shirt_with_sash:
-1f3bf.png	🎿	:ski:
-1f3ae.png	🎮	:video_game:
-1f579.png	🕹	:joystick:
-1f3b2.png	🎲	:game_die:
-2660.png	♠	:spades:
-2665.png	♥	:hearts:
-2666.png	♦	:diamonds:
-2663.png	♣	:clubs:
-1f0cf.png	🃏	:black_joker:
-1f004.png	🀄	:mahjong:
-1f3b4.png	🎴	:flower_playing_cards:
-1f507.png	🔇	:mute:
-1f508.png	🔈	:speaker:
-1f509.png	🔉	:sound:
-1f50a.png	🔊	:loud_sound:
-1f4e2.png	📢	:loudspeaker:
-1f4e3.png	📣	:mega:
-1f4ef.png	📯	:postal_horn:
-1f514.png	🔔	:bell:
-1f515.png	🔕	:no_bell:
-1f3bc.png	🎼	:musical_score:
-1f3b5.png	🎵	:musical_note:
-1f3b6.png	🎶	:notes:
-1f399.png	🎙	:microphone2:	:studio_microphone:
-1f39a.png	🎚	:level_slider:
-1f39b.png	🎛	:control_knobs:
-1f3a4.png	🎤	:microphone:
-1f3a7.png	🎧	:headphones:
-1f4fb.png	📻	:radio:
-1f3b7.png	🎷	:saxophone:
-1f3b8.png	🎸	:guitar:
-1f3b9.png	🎹	:musical_keyboard:
-1f3ba.png	🎺	:trumpet:
-1f3bb.png	🎻	:violin:
-1f941.png	🥁	:drum:	:drum_with_drumsticks:
-1f4f1.png	📱	:iphone:
-1f4f2.png	📲	:calling:
-260e.png	☎	:telephone:
-1f4de.png	📞	:telephone_receiver:
-1f4df.png	📟	:pager:
-1f4e0.png	📠	:fax:
-1f50b.png	🔋	:battery:
-1f50c.png	🔌	:electric_plug:
-1f4bb.png	💻	:computer:
-1f5a5.png	🖥	:desktop:	:desktop_computer:
-1f5a8.png	🖨	:printer:
-2328.png	⌨	:keyboard:
-1f5b1.png	🖱	:mouse_three_button:	:three_button_mouse:
-1f5b2.png	🖲	:trackball:
-1f4bd.png	💽	:minidisc:
-1f4be.png	💾	:floppy_disk:
-1f4bf.png	💿	:cd:
-1f4c0.png	📀	:dvd:
-1f3a5.png	🎥	:movie_camera:
-1f39e.png	🎞	:film_frames:
-1f4fd.png	📽	:projector:	:film_projector:
-1f3ac.png	🎬	:clapper:
-1f4fa.png	📺	:tv:
-1f4f7.png	📷	:camera:
-1f4f8.png	📸	:camera_with_flash:
-1f4f9.png	📹	:video_camera:
-1f4fc.png	📼	:vhs:
-1f50d.png	🔍	:mag:
-1f50e.png	🔎	:mag_right:
-1f52c.png	🔬	:microscope:
-1f52d.png	🔭	:telescope:
-1f4e1.png	📡	:satellite:
-1f56f.png	🕯	:candle:
-1f4a1.png	💡	:bulb:
-1f526.png	🔦	:flashlight:
-1f3ee.png	🏮	:izakaya_lantern:
-1f4d4.png	📔	:notebook_with_decorative_cover:
-1f4d5.png	📕	:closed_book:
-1f4d6.png	📖	:book:
-1f4d7.png	📗	:green_book:
-1f4d8.png	📘	:blue_book:
-1f4d9.png	📙	:orange_book:
-1f4da.png	📚	:books:
-1f4d3.png	📓	:notebook:
-1f4d2.png	📒	:ledger:
-1f4c3.png	📃	:page_with_curl:
-1f4dc.png	📜	:scroll:
-1f4c4.png	📄	:page_facing_up:
-1f4f0.png	📰	:newspaper:
-1f5de.png	🗞	:newspaper2:	:rolled_up_newspaper:
-1f4d1.png	📑	:bookmark_tabs:
-1f516.png	🔖	:bookmark:
-1f3f7.png	🏷	:label:
-1f4b0.png	💰	:moneybag:
-1f4b4.png	💴	:yen:
-1f4b5.png	💵	:dollar:
-1f4b6.png	💶	:euro:
-1f4b7.png	💷	:pound:
-1f4b8.png	💸	:money_with_wings:
-1f4b3.png	💳	:credit_card:
-1f4b9.png	💹	:chart:
-1f4b1.png	💱	:currency_exchange:
-1f4b2.png	💲	:heavy_dollar_sign:
-2709.png	✉	:envelope:
-1f4e7.png	📧	:e-mail:	:email:
-1f4e8.png	📨	:incoming_envelope:
-1f4e9.png	📩	:envelope_with_arrow:
-1f4e4.png	📤	:outbox_tray:
-1f4e5.png	📥	:inbox_tray:
-1f4e6.png	📦	:package:
-1f4eb.png	📫	:mailbox:
-1f4ea.png	📪	:mailbox_closed:
-1f4ec.png	📬	:mailbox_with_mail:
-1f4ed.png	📭	:mailbox_with_no_mail:
-1f4ee.png	📮	:postbox:
-1f5f3.png	🗳	:ballot_box:	:ballot_box_with_ballot:
-270f.png	✏	:pencil2:
-2712.png	✒	:black_nib:
-1f58b.png	🖋	:pen_fountain:	:lower_left_fountain_pen:
-1f58a.png	🖊	:pen_ballpoint:	:lower_left_ballpoint_pen:
-1f58c.png	🖌	:paintbrush:	:lower_left_paintbrush:
-1f58d.png	🖍	:crayon:	:lower_left_crayon:
-1f4dd.png	📝	:pencil:
-1f4bc.png	💼	:briefcase:
-1f4c1.png	📁	:file_folder:
-1f4c2.png	📂	:open_file_folder:
-1f5c2.png	🗂	:dividers:	:card_index_dividers:
-1f4c5.png	📅	:date:
-1f4c6.png	📆	:calendar:
-1f5d2.png	🗒	:notepad_spiral:	:spiral_note_pad:
-1f5d3.png	🗓	:calendar_spiral:	:spiral_calendar_pad:
-1f4c7.png	📇	:card_index:
-1f4c8.png	📈	:chart_with_upwards_trend:
-1f4c9.png	📉	:chart_with_downwards_trend:
-1f4ca.png	📊	:bar_chart:
-1f4cb.png	📋	:clipboard:
-1f4cc.png	📌	:pushpin:
-1f4cd.png	📍	:round_pushpin:
-1f4ce.png	📎	:paperclip:
-1f587.png	🖇	:paperclips:	:linked_paperclips:
-1f4cf.png	📏	:straight_ruler:
-1f4d0.png	📐	:triangular_ruler:
-2702.png	✂	:scissors:
-1f5c3.png	🗃	:card_box:	:card_file_box:
-1f5c4.png	🗄	:file_cabinet:
-1f5d1.png	🗑	:wastebasket:
-1f512.png	🔒	:lock:
-1f513.png	🔓	:unlock:
-1f50f.png	🔏	:lock_with_ink_pen:
-1f510.png	🔐	:closed_lock_with_key:
-1f511.png	🔑	:key:
-1f5dd.png	🗝	:key2:	:old_key:
-1f528.png	🔨	:hammer:
-26cf.png	⛏	:pick:
-2692.png	⚒	:hammer_pick:	:hammer_and_pick:
-1f6e0.png	🛠	:tools:	:hammer_and_wrench:
-1f5e1.png	🗡	:dagger:	:dagger_knife:
-2694.png	⚔	:crossed_swords:
-1f52b.png	🔫	:gun:
-1f3f9.png	🏹	:bow_and_arrow:	:archery:
-1f6e1.png	🛡	:shield:
-1f527.png	🔧	:wrench:
-1f529.png	🔩	:nut_and_bolt:
-2699.png	⚙	:gear:
-1f5dc.png	🗜	:compression:
-2697.png	⚗	:alembic:
-2696.png	⚖	:scales:
-1f517.png	🔗	:link:
-26d3.png	⛓	:chains:
-1f489.png	💉	:syringe:
-1f48a.png	💊	:pill:
-1f6ac.png	🚬	:smoking:
-26b0.png	⚰	:coffin:
-26b1.png	⚱	:urn:	:funeral_urn:
-1f5ff.png	🗿	:moyai:
-1f6e2.png	🛢	:oil:	:oil_drum:
-1f52e.png	🔮	:crystal_ball:
-1f6d2.png	🛒	:shopping_cart:	:shopping_trolley:
-1f3e7.png	🏧	:atm:
-1f6ae.png	🚮	:put_litter_in_its_place:
-1f6b0.png	🚰	:potable_water:
-267f.png	♿	:wheelchair:
-1f6b9.png	🚹	:mens:
-1f6ba.png	🚺	:womens:
-1f6bb.png	🚻	:restroom:
-1f6bc.png	🚼	:baby_symbol:
-1f6be.png	🚾	:wc:
-1f6c2.png	🛂	:passport_control:
-1f6c3.png	🛃	:customs:
-1f6c4.png	🛄	:baggage_claim:
-1f6c5.png	🛅	:left_luggage:
-26a0.png	⚠	:warning:
-1f6b8.png	🚸	:children_crossing:
-26d4.png	⛔	:no_entry:
-1f6ab.png	🚫	:no_entry_sign:
-1f6b3.png	🚳	:no_bicycles:
-1f6ad.png	🚭	:no_smoking:
-1f6af.png	🚯	:do_not_litter:
-1f6b1.png	🚱	:non-potable_water:
-1f6b7.png	🚷	:no_pedestrians:
-1f4f5.png	📵	:no_mobile_phones:
-1f51e.png	🔞	:underage:
-2622.png	☢	:radioactive:	:radioactive_sign:
-2623.png	☣	:biohazard:	:biohazard_sign:
-2b06.png	⬆	:arrow_up:
-2197.png	↗	:arrow_upper_right:
-27a1.png	➡	:arrow_right:
-2198.png	↘	:arrow_lower_right:
-2b07.png	⬇	:arrow_down:
-2199.png	↙	:arrow_lower_left:
-2b05.png	⬅	:arrow_left:
-2196.png	↖	:arrow_upper_left:
-2195.png	↕	:arrow_up_down:
-2194.png	↔	:left_right_arrow:
-21a9.png	↩	:leftwards_arrow_with_hook:
-21aa.png	↪	:arrow_right_hook:
-2934.png	⤴	:arrow_heading_up:
-2935.png	⤵	:arrow_heading_down:
-1f503.png	🔃	:arrows_clockwise:
-1f504.png	🔄	:arrows_counterclockwise:
-1f519.png	🔙	:back:
-1f51a.png	🔚	:end:
-1f51b.png	🔛	:on:
-1f51c.png	🔜	:soon:
-1f51d.png	🔝	:top:
-1f6d0.png	🛐	:place_of_worship:	:worship_symbol:
-269b.png	⚛	:atom:	:atom_symbol:
-1f549.png	🕉	:om_symbol:
-2721.png	✡	:star_of_david:
-2638.png	☸	:wheel_of_dharma:
-262f.png	☯	:yin_yang:
-271d.png	✝	:cross:	:latin_cross:
-2626.png	☦	:orthodox_cross:
-262a.png	☪	:star_and_crescent:
-262e.png	☮	:peace:	:peace_symbol:
-1f54e.png	🕎	:menorah:
-1f52f.png	🔯	:six_pointed_star:
-2648.png	♈	:aries:
-2649.png	♉	:taurus:
-264a.png	♊	:gemini:
-264b.png	♋	:cancer:
-264c.png	♌	:leo:
-264d.png	♍	:virgo:
-264e.png	♎	:libra:
-264f.png	♏	:scorpius:
-2650.png	♐	:sagittarius:
-2651.png	♑	:capricorn:
-2652.png	♒	:aquarius:
-2653.png	♓	:pisces:
-26ce.png	⛎	:ophiuchus:
-1f500.png	🔀	:twisted_rightwards_arrows:
-1f501.png	🔁	:repeat:
-1f502.png	🔂	:repeat_one:
-25b6.png	▶	:arrow_forward:
-23e9.png	⏩	:fast_forward:
-23ed.png	⏭	:track_next:	:next_track:
-23ef.png	⏯	:play_pause:
-25c0.png	◀	:arrow_backward:
-23ea.png	⏪	:rewind:
-23ee.png	⏮	:track_previous:	:previous_track:
-1f53c.png	🔼	:arrow_up_small:
-23eb.png	⏫	:arrow_double_up:
-1f53d.png	🔽	:arrow_down_small:
-23ec.png	⏬	:arrow_double_down:
-23f8.png	⏸	:pause_button:	:double_vertical_bar:
-23f9.png	⏹	:stop_button:
-23fa.png	⏺	:record_button:
-23cf.png	⏏	:eject:	:eject_symbol:
-1f3a6.png	🎦	:cinema:
-1f505.png	🔅	:low_brightness:
-1f506.png	🔆	:high_brightness:
-1f4f6.png	📶	:signal_strength:
-1f4f3.png	📳	:vibration_mode:
-1f4f4.png	📴	:mobile_phone_off:
-267b.png	♻	:recycle:
-1f4db.png	📛	:name_badge:
-269c.png	⚜	:fleur-de-lis:
-1f530.png	🔰	:beginner:
-1f531.png	🔱	:trident:
-2b55.png	⭕	:o:
-2705.png	✅	:white_check_mark:
-2611.png	☑	:ballot_box_with_check:
-2714.png	✔	:heavy_check_mark:
-2716.png	✖	:heavy_multiplication_x:
-274c.png	❌	:x:
-274e.png	❎	:negative_squared_cross_mark:
-2795.png	➕	:heavy_plus_sign:
-2796.png	➖	:heavy_minus_sign:
-2797.png	➗	:heavy_division_sign:
-27b0.png	➰	:curly_loop:
-27bf.png	➿	:loop:
-303d.png	〽	:part_alternation_mark:
-2733.png	✳	:eight_spoked_asterisk:
-2734.png	✴	:eight_pointed_black_star:
-2747.png	❇	:sparkle:
-203c.png	‼	:bangbang:
-2049.png	⁉	:interrobang:
-2753.png	❓	:question:
-2754.png	❔	:grey_question:
-2755.png	❕	:grey_exclamation:
-2757.png	❗	:exclamation:
+1f370.png	🍰	:cake:													
+1f372.png	🍲	:stew:													
+1f373.png	🍳	:cooking:													
+1f374.png	🍴	:fork_and_knife:													
+1f375.png	🍵	:tea:													
+1f377.png	🍷	:wine_glass:													
+1f378.png	🍸	:cocktail:													
+1f379.png	🍹	:tropical_drink:													
+1f37a.png	🍺	:beer:													
+1f37b.png	🍻	:beers:													
+1f37d.png	🍽	:fork_knife_plate:	:fork_and_knife_with_plate:												
+1f37e.png	🍾	:champagne:	:bottle_with_popping_cork:												
+1f37f.png	🍿	:popcorn:													
+1f381.png	🎁	:gift:													
+1f382.png	🎂	:birthday:													
+1f383.png	🎃	:jack_o_lantern:													
+1f384.png	🎄	:christmas_tree:													
+1f385.png	🎅	:santa:													
+1f389.png	🎉	:tada:													
+1f393.png	🎓	:mortar_board:													
+1f39f.png	🎟	:tickets:	:admission_tickets:												
+1f3a0.png	🎠	:carousel_horse:													
+1f3a1.png	🎡	:ferris_wheel:													
+1f3a3.png	🎣	:fishing_pole_and_fish:													
+1f3a4.png	🎤	:microphone:													
+1f3a7.png	🎧	:headphones:													
+1f3a8.png	🎨	:art:													
+1f3ad.png	🎭	:performing_arts:													
+1f3af.png	🎯	:dart:													
+1f3b1.png	🎱	:8ball:													
+1f3b2.png	🎲	:game_die:													
+1f3b3.png	🎳	:bowling:													
+1f3b5.png	🎵	:musical_note:													
+1f3b7.png	🎷	:saxophone:													
+1f3b8.png	🎸	:guitar:													
+1f3b9.png	🎹	:musical_keyboard:													
+1f3ba.png	🎺	:trumpet:													
+1f3bb.png	🎻	:violin:													
+1f3bc.png	🎼	:musical_score:													
+1f3be.png	🎾	:tennis:													
+1f3bf.png	🎿	:ski:													
+1f3c0.png	🏀	:basketball:													
+1f3c5.png	🏅	:medal:	:sports_medal:												
+1f3c6.png	🏆	:trophy:													
+1f3c8.png	🏈	:football:													
+1f3cb.png	🏋	:lifter:	:weight_lifter:												
+1f3cd.png	🏍	:motorcycle:	:racing_motorcycle:												
+1f3d0.png	🏐	:volleyball:													
+1f3e7.png	🏧	:atm:													
+1f3f5.png	🏵	:rosette:													
+1f400.png	🐀	:rat:													
+1f401.png	🐁	:mouse2:													
+1f402.png	🐂	:ox:													
+1f403.png	🐃	:water_buffalo:													
+1f404.png	🐄	:cow2:													
+1f405.png	🐅	:tiger2:													
+1f406.png	🐆	:leopard:													
+1f407.png	🐇	:rabbit2:													
+1f408.png	🐈	:cat2:													
+1f409.png	🐉	:dragon:													
+1f40a.png	🐊	:crocodile:													
+1f40b.png	🐋	:whale2:													
+1f40c.png	🐌	:snail:													
+1f40d.png	🐍	:snake:													
+1f40e.png	🐎	:racehorse:													
+1f40f.png	🐏	:ram:													
+1f410.png	🐐	:goat:													
+1f411.png	🐑	:sheep:													
+1f412.png	🐒	:monkey:													
+1f413.png	🐓	:rooster:													
+1f414.png	🐔	:chicken:													
+1f415.png	🐕	:dog2:													
+1f416.png	🐖	:pig2:													
+1f417.png	🐗	:boar:													
+1f418.png	🐘	:elephant:													
+1f419.png	🐙	:octopus:													
+1f41a.png	🐚	:shell:													
+1f41b.png	🐛	:bug:													
+1f41c.png	🐜	:ant:													
+1f41d.png	🐝	:bee:													
+1f41e.png	🐞	:beetle:													
+1f41f.png	🐟	:fish:													
+1f420.png	🐠	:tropical_fish:													
+1f421.png	🐡	:blowfish:													
+1f422.png	🐢	:turtle:													
+1f423.png	🐣	:hatching_chick:													
+1f424.png	🐤	:baby_chick:													
+1f426.png	🐦	:bird:													
+1f427.png	🐧	:penguin:													
+1f428.png	🐨	:koala:													
+1f429.png	🐩	:poodle:													
+1f42a.png	🐪	:dromedary_camel:													
+1f42b.png	🐫	:camel:													
+1f42c.png	🐬	:dolphin:													
+1f42d.png	🐭	:mouse:													
+1f42e.png	🐮	:cow:													
+1f42f.png	🐯	:tiger:													
+1f430.png	🐰	:rabbit:													
+1f431.png	🐱	:cat:													
+1f432.png	🐲	:dragon_face:													
+1f433.png	🐳	:whale:													
+1f434.png	🐴	:horse:													
+1f435.png	🐵	:monkey_face:													
+1f436.png	🐶	:dog:													
+1f437.png	🐷	:pig:													
+1f438.png	🐸	:frog:													
+1f439.png	🐹	:hamster:													
+1f43a.png	🐺	:wolf:													
+1f43b.png	🐻	:bear:													
+1f43c.png	🐼	:panda_face:													
+1f43f.png	🐿	:chipmunk:													
+1f440.png	👀	:eyes:													
+1f442.png	👂	:ear:													
+1f446.png	👆	:point_up_2:													
+1f447.png	👇	:point_down:													
+1f448.png	👈	:point_left:													
+1f44a.png	👊	:punch:													
+1f44b.png	👋	:wave:													
+1f44c.png	👌	:ok_hand:													
+1f44d.png	👍	:thumbsup:	:+1:	:thumbup:											
+1f44e.png	👎	:thumbsdown:	:-1:	:thumbdown:											
+1f44f.png	👏	:clap:													
+1f450.png	👐	:open_hands:													
+1f451.png	👑	:crown:													
+1f453.png	👓	:eyeglasses:													
+1f47b.png	👻	:ghost:													
+1f47d.png	👽	:alien:													
+1f47e.png	👾	:space_invader:													
+1f47f.png	👿	:imp:													
+1f488.png	💈	:barber:													
+1f489.png	💉	:syringe:													
+1f494.png	💔	:broken_heart:	</3												
+1f4a1.png	💡	:bulb:													
+1f4a3.png	💣	:bomb:													
+1f4a4.png	💤	:zzz:													
+1f4a5.png	💥	:boom:													
+1f4a6.png	💦	:sweat_drops:													
+1f4a9.png	💩	:poop:	:shit:	:hankey:	:poo:										
+1f4aa.png	💪	:muscle:													
+1f4ad.png	💭	:thought_balloon:													
+1f4af.png	💯	:100:													
+1f4b0.png	💰	:moneybag:													
+1f4bc.png	💼	:briefcase:													
+1f4d6.png	📖	:book:													
+1f4da.png	📚	:books:													
+1f4de.png	📞	:telephone_receiver:													
+1f4f0.png	📰	:newspaper:													
+1f4f8.png	📸	:camera_with_flash:													
+1f4f9.png	📹	:video_camera:													
+1f4fa.png	📺	:tv:													
+1f4fd.png	📽	:projector:	:film_projector:												
+1f50e.png	🔎	:mag_right:													
+1f510.png	🔐	:closed_lock_with_key:													
+1f525.png	🔥	:fire:	:flame:												
+1f528.png	🔨	:hammer:													
+1f52a.png	🔪	:knife:													
+1f52b.png	🔫	:gun:													
+1f52c.png	🔬	:microscope:													
+1f52d.png	🔭	:telescope:													
+1f54a.png	🕊	:dove:	:dove_of_peace:												
+1f575.png	🕵	:spy:	:sleuth_or_spy:												
+1f576.png	🕶	:dark_sunglasses:													
+1f577.png	🕷	:spider:													
+1f579.png	🕹	:joystick:													
+1f590.png	🖐	:hand_splayed:	:raised_hand_with_fingers_splayed:												
+1f595.png	🖕	:middle_finger:	:reversed_hand_with_middle_finger_extended:												
+1f596.png	🖖	:vulcan:	:raised_hand_with_part_between_middle_and_ring_fingers:												
+1f5d1.png	🗑	:wastebasket:													
+1f5e1.png	🗡	:dagger:	:dagger_knife:												
+1f5f3.png	🗳	:ballot_box:	:ballot_box_with_ballot:												
