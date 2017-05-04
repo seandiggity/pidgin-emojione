@@ -1,4 +1,4 @@
-Name=Emoji Slim (1.0.0)
+Name=Emoji Slim (1.0.1)
 Description=Subset of Emoji One unicode ported to Pidgin
 Icon=1f403.png
 Author=Sean Diggity O'Brien
@@ -123,6 +123,7 @@ Author=Sean Diggity O'Brien
 1f941.png	🥁	:drum:	:drum_with_drumsticks:												
 1f942.png	🥂	:champagne_glass:	:clinking_glass:												
 1f943.png	🥃	:tumbler_glass:	:whisky:												
+1f944.png	🥄	:spoon:
 1f94a.png	🥊	:boxing_glove:	:boxing_gloves:												
 1f94b.png	🥋	:martial_arts_uniform:	:karate_uniform:												
 1f951.png	🥑	:avocado:													
@@ -164,6 +165,7 @@ Author=Sean Diggity O'Brien
 2618.png	☘	:shamrock:													
 261d.png	☝	:point_up:													
 2620.png	☠	:skull_crossbones:	:skull_and_crossbones:												
+2623.png	☣	:biohazard:	:biohazard_sign:
 262e.png	☮	:peace:	:peace_symbol:												
 2639.png	☹	:frowning2:	:white_frowning_face:												
 263a.png	☺	:relaxed:													
@@ -172,6 +174,7 @@ Author=Sean Diggity O'Brien
 2693.png	⚓	:anchor:													
 2694.png	⚔	:crossed_swords:													
 2696.png	⚖	:scales:													
+269b.png	⚛	:atom:	:atom_symbol:
 26bd.png	⚽	:soccer:													
 26be.png	⚾	:baseball:													
 26c4.png	⛄	:snowman:													
@@ -200,6 +203,7 @@ Author=Sean Diggity O'Brien
 1f31d.png	🌝	:full_moon_with_face:													
 1f31e.png	🌞	:sun_with_face:													
 1f31f.png	🌟	:star2:													
+1f321.png	🌡	:thermometer:
 1f325.png	🌥	:white_sun_cloud:	:white_sun_behind_cloud:												
 1f326.png	🌦	:white_sun_rain_cloud:	:white_sun_behind_cloud_with_rain:												
 1f327.png	🌧	:cloud_rain:	:cloud_with_rain:												
@@ -225,6 +229,7 @@ Author=Sean Diggity O'Brien
 1f349.png	🍉	:watermelon:													
 1f34c.png	🍌	:banana:													
 1f34d.png	🍍	:pineapple:													
+1f34e.png	🍎	:apple:
 1f352.png	🍒	:cherries:													
 1f353.png	🍓	:strawberry:													
 1f354.png	🍔	:hamburger:													
@@ -371,10 +376,13 @@ Author=Sean Diggity O'Brien
 1f450.png	👐	:open_hands:													
 1f451.png	👑	:crown:													
 1f453.png	👓	:eyeglasses:													
+1f479.png	👹	:japanese_ogre:
+1f47a.png	👺	:japanese_goblin:
 1f47b.png	👻	:ghost:													
 1f47d.png	👽	:alien:													
 1f47e.png	👾	:space_invader:													
 1f47f.png	👿	:imp:													
+1f480.png	💀	:skull:	:skeleton:
 1f488.png	💈	:barber:													
 1f489.png	💉	:syringe:													
 1f494.png	💔	:broken_heart:	</3												

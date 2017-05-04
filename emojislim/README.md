@@ -3,7 +3,7 @@
 A Pidgin [smiley theme](https://developer.pidgin.im/wiki/SmileyThemes) based
 on [Emoji One](http://emojione.com/) and forked from [pidgin-emojione](https://github.com/niclashoyer/pidgin-emojione).
 
-Although I call this theme "slim", it contains 412 icons... but it's still much smaller than the original theme (1832 icons and growing).
+Although I call this theme "slim", it contains 420 icons... but it's still much smaller than the original theme (1832 icons and growing).
 
 ## Installation
 
