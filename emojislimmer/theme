@@ -1,0 +1,261 @@
+Name=Emoji Slimmer (1.0.1)
+Description=255 icons from Emoji One ported to Pidgin
+Icon=1f427.png
+Author=Sean Diggity O'Brien
+
+[default]
+1f600.png	😀	:grinning:													
+1f601.png	😁	:grin:													
+1f602.png	😂	:joy:	:')	:'-)											
+1f603.png	😃	:smiley:	:D	:-D	#NAME?										
+1f604.png	😄	:smile:													
+1f605.png	😅	:sweat_smile:	':)	':-)	'=)	':D	':-D	'=D							
+1f606.png	😆	:laughing:	:satisfied:	>:)	>;)	>:-)	>=)								
+1f607.png	😇	:innocent:	O:-)	0:-3	0:3	0:-)	0:)	0;^)	O:)	O;-)	O=)	0;-)	O:-3	O:3	
+1f608.png	😈	:smiling_imp:													
+1f609.png	😉	:wink:	;)	;-)	*-)	*)	;-]	;]	;D	;^)					
+1f60a.png	😊	:blush:													
+1f60b.png	😋	:yum:													
+1f60c.png	😌	:relieved:													
+1f60d.png	😍	:heart_eyes:													
+1f60e.png	😎	:sunglasses:	B-)	B)	8)	8-)	B-D	8-D							
+1f60f.png	😏	:smirk:													
+1f610.png	😐	:neutral_face:													
+1f611.png	😑	:expressionless:	-_-	-__-	-___-										
+1f612.png	😒	:unamused:													
+1f613.png	😓	:sweat:	':(	':-(	'=(										
+1f614.png	😔	:pensive:													
+1f615.png	😕	:confused:	>:\	>:/	:-/	:-.	:/	:\		Err:509	:L	#NAME?			
+1f616.png	😖	:confounded:													
+1f617.png	😗	:kissing:													
+1f618.png	😘	:kissing_heart:	:*	:-*		:^*									
+1f619.png	😙	:kissing_smiling_eyes:													
+1f61a.png	😚	:kissing_closed_eyes:													
+1f61b.png	😛	:stuck_out_tongue:	:P	:-P	#NAME?	:-p	:p	#NAME?	:-Þ	:Þ	:þ	:-þ	:-b	:b	d:
+1f61c.png	😜	:stuck_out_tongue_winking_eye:	>:P	X-P	x-p										
+1f61d.png	😝	:stuck_out_tongue_closed_eyes:													
+1f61e.png	😞	:disappointed:	>:[	:-(	:(	:-[	:[								
+1f61f.png	😟	:worried:													
+1f620.png	😠	:angry:	>:(	>:-(	:@										
+1f621.png	😡	:rage:													
+1f622.png	😢	:cry:	:'(	:'-(	;(	;-(									
+1f623.png	😣	:persevere:	>.<												
+1f624.png	😤	:triumph:													
+1f625.png	😥	:disappointed_relieved:													
+1f626.png	😦	:frowning:													
+1f627.png	😧	:anguished:													
+1f628.png	😨	:fearful:	D:												
+1f629.png	😩	:weary:													
+1f62a.png	😪	:sleepy:													
+1f62b.png	😫	:tired_face:													
+1f62c.png	😬	:grimacing:													
+1f62d.png	😭	:sob:													
+1f62e.png	😮	:open_mouth:	:-O	:O	:-o	:o	O_O	>:O							
+1f62f.png	😯	:hushed:													
+1f630.png	😰	:cold_sweat:													
+1f631.png	😱	:scream:													
+1f632.png	😲	:astonished:													
+1f633.png	😳	:flushed:	:$												
+1f634.png	😴	:sleeping:													
+1f635.png	😵	:dizzy_face:	#-)	#)	%-)	%)	X)	X-)							
+1f636.png	😶	:no_mouth:	:-X	:X	:-#	:#	#NAME?	#NAME?	:x	:-x					
+1f637.png	😷	:mask:													
+1f638.png	😸	:smile_cat:													
+1f639.png	😹	:joy_cat:													
+1f63a.png	😺	:smiley_cat:													
+1f63b.png	😻	:heart_eyes_cat:													
+1f63c.png	😼	:smirk_cat:													
+1f63d.png	😽	:kissing_cat:													
+1f63e.png	😾	:pouting_cat:													
+1f63f.png	😿	:crying_cat_face:													
+1f640.png	🙀	:scream_cat:													
+1f641.png	🙁	:slight_frown:	:slightly_frowning_face:												
+1f642.png	🙂	:slight_smile:	:slightly_smiling_face:	:)	:-)			:]							
+1f643.png	🙃	:upside_down:	:upside_down_face:												
+1f644.png	🙄	:rolling_eyes:	:face_with_rolling_eyes:												
+1f648.png	🙈	:see_no_evil:													
+1f649.png	🙉	:hear_no_evil:													
+1f64a.png	🙊	:speak_no_evil:													
+1f64c.png	🙌	:raised_hands:													
+1f6b2.png	🚲	:bike:													
+1f910.png	🤐	:zipper_mouth:	:zipper_mouth_face:												
+1f911.png	🤑	:money_mouth:	:money_mouth_face:												
+1f912.png	🤒	:thermometer_face:	:face_with_thermometer:												
+1f913.png	🤓	:nerd:	:nerd_face:												
+1f914.png	🤔	:thinking:	:thinking_face:												
+1f915.png	🤕	:head_bandage:	:face_with_head_bandage:												
+1f916.png	🤖	:robot:	:robot_face:												
+1f917.png	🤗	:hugging:	:hugging_face:												
+1f918.png	🤘	:metal:	:sign_of_the_horns:												
+1f919.png	🤙	:call_me:	:call_me_hand:												
+1f91d.png	🤝	:handshake:	:shaking_hands:												
+1f91e.png	🤞	:fingers_crossed:	:hand_with_index_and_middle_finger_crossed:												
+1f920.png	🤠	:cowboy:	:face_with_cowboy_hat:												
+1f922.png	🤢	:nauseated_face:	:sick:												
+1f923.png	🤣	:rofl:	:rolling_on_the_floor_laughing:												
+1f924.png	🤤	:drooling_face:	:drool:												
+1f925.png	🤥	:lying_face:	:liar:												
+1f926.png	🤦	:face_palm:	:facepalm:												
+1f927.png	🤧	:sneezing_face:	:sneeze:												
+1f941.png	🥁	:drum:	:drum_with_drumsticks:												
+1f942.png	🥂	:champagne_glass:	:clinking_glass:												
+1f943.png	🥃	:tumbler_glass:	:whisky:												
+1f94a.png	🥊	:boxing_glove:	:boxing_gloves:												
+1f953.png	🥓	:bacon:													
+1f957.png	🥗	:salad:	:green_salad:												
+1f95a.png	🥚	:egg:													
+1f95e.png	🥞	:pancakes:													
+1f980.png	🦀	:crab:													
+1f981.png	🦁	:lion_face:	:lion:												
+1f982.png	🦂	:scorpion:													
+1f983.png	🦃	:turkey:													
+1f984.png	🦄	:unicorn:	:unicorn_face:												
+1f985.png	🦅	:eagle:													
+1f986.png	🦆	:duck:													
+1f987.png	🦇	:bat:													
+1f988.png	🦈	:shark:													
+1f989.png	🦉	:owl:													
+1f98a.png	🦊	:fox:	:fox_face:												
+1f98b.png	🦋	:butterfly:													
+1f98d.png	🦍	:gorilla:													
+1f98e.png	🦎	:lizard:													
+1f98f.png	🦏	:rhino:	:rhinoceros:												
+1f991.png	🦑	:squid:													
+1f9c0.png	🧀	:cheese:	:cheese_wedge:												
+2614.png	☔	:umbrella:													
+2615.png	☕	:coffee:													
+2618.png	☘	:shamrock:													
+2620.png	☠	:skull_crossbones:	:skull_and_crossbones:	
+262e.png	☮	:peace:	:peace_symbol:												
+2639.png	☹	:frowning2:	:white_frowning_face:												
+263a.png	☺	:relaxed:													
+26bd.png	⚽	:soccer:													
+26be.png	⚾	:baseball:													
+26c4.png	⛄	:snowman:													
+2744.png	❄	:snowflake:													
+2764.png	❤	:heart:	<3												
+1f30b.png	🌋	:volcano:													
+1f30e.png	🌎	:earth_americas:													
+1f31d.png	🌝	:full_moon_with_face:													
+1f31e.png	🌞	:sun_with_face:													
+1f32d.png	🌭	:hotdog:	:hot_dog:												
+1f32e.png	🌮	:taco:													
+1f32f.png	🌯	:burrito:													
+1f339.png	🌹	:rose:													
+1f340.png	🍀	:four_leaf_clover:													
+1f341.png	🍁	:maple_leaf:													
+1f345.png	🍅	:tomato:													
+1f347.png	🍇	:grapes:													
+1f349.png	🍉	:watermelon:
+1f34c.png	🍌	:banana:													
+1f34e.png	🍎	:apple:													
+1f352.png	🍒	:cherries:													
+1f353.png	🍓	:strawberry:													
+1f354.png	🍔	:hamburger:													
+1f355.png	🍕	:pizza:													
+1f35f.png	🍟	:fries:													
+1f363.png	🍣	:sushi:													
+1f367.png	🍧	:shaved_ice:													
+1f368.png	🍨	:ice_cream:
+1f369.png	🍩	:doughnut:													
+1f36a.png	🍪	:cookie:													
+1f36b.png	🍫	:chocolate_bar:													
+1f36f.png	🍯	:honey_pot:													
+1f370.png	🍰	:cake:													
+1f373.png	🍳	:cooking:													
+1f375.png	🍵	:tea:													
+1f377.png	🍷	:wine_glass:													
+1f378.png	🍸	:cocktail:													
+1f379.png	🍹	:tropical_drink:													
+1f37a.png	🍺	:beer:													
+1f37b.png	🍻	:beers:													
+1f37d.png	🍽	:fork_knife_plate:	:fork_and_knife_with_plate:												
+1f37e.png	🍾	:champagne:	:bottle_with_popping_cork:												
+1f37f.png	🍿	:popcorn:													
+1f381.png	🎁	:gift:													
+1f382.png	🎂	:birthday:													
+1f383.png	🎃	:jack_o_lantern:													
+1f384.png	🎄	:christmas_tree:													
+1f385.png	🎅	:santa:													
+1f389.png	🎉	:tada:													
+1f3af.png	🎯	:dart:													
+1f3b1.png	🎱	:8ball:													
+1f3b5.png	🎵	:musical_note:													
+1f3b8.png	🎸	:guitar:
+1f3bc.png	🎼	:musical_score:													
+1f3c0.png	🏀	:basketball:													
+1f3c6.png	🏆	:trophy:													
+1f3c8.png	🏈	:football:													
+1f3d0.png	🏐	:volleyball:													
+1f3f5.png	🏵	:rosette:													
+1f400.png	🐀	:rat:													
+1f403.png	🐃	:water_buffalo:													
+1f404.png	🐄	:cow2:													
+1f405.png	🐅	:tiger2:													
+1f407.png	🐇	:rabbit2:													
+1f408.png	🐈	:cat2:													
+1f409.png	🐉	:dragon:													
+1f40a.png	🐊	:crocodile:													
+1f40b.png	🐋	:whale2:													
+1f40c.png	🐌	:snail:													
+1f40d.png	🐍	:snake:													
+1f40f.png	🐏	:ram:													
+1f411.png	🐑	:sheep:													
+1f412.png	🐒	:monkey:													
+1f413.png	🐓	:rooster:													
+1f414.png	🐔	:chicken:													
+1f415.png	🐕	:dog2:													
+1f416.png	🐖	:pig2:													
+1f418.png	🐘	:elephant:													
+1f419.png	🐙	:octopus:													
+1f41b.png	🐛	:bug:													
+1f41d.png	🐝	:bee:													
+1f41e.png	🐞	:beetle:													
+1f41f.png	🐟	:fish:													
+1f420.png	🐠	:tropical_fish:													
+1f421.png	🐡	:blowfish:													
+1f422.png	🐢	:turtle:													
+1f423.png	🐣	:hatching_chick:													
+1f424.png	🐤	:baby_chick:													
+1f426.png	🐦	:bird:													
+1f427.png	🐧	:penguin:													
+1f428.png	🐨	:koala:													
+1f429.png	🐩	:poodle:													
+1f42a.png	🐪	:dromedary_camel:													
+1f42c.png	🐬	:dolphin:													
+1f433.png	🐳	:whale:	
+1f434.png	🐴	:horse:													
+1f435.png	🐵	:monkey_face:													
+1f438.png	🐸	:frog:													
+1f439.png	🐹	:hamster:													
+1f43a.png	🐺	:wolf:													
+1f43b.png	🐻	:bear:													
+1f43c.png	🐼	:panda_face:													
+1f43f.png	🐿	:chipmunk:													
+1f44c.png	👌	:ok_hand:													
+1f44d.png	👍	:thumbsup:	:+1:	:thumbup:											
+1f44e.png	👎	:thumbsdown:	:-1:	:thumbdown:											
+1f479.png	👹	:japanese_ogre:													
+1f47a.png	👺	:japanese_goblin:													
+1f47b.png	👻	:ghost:													
+1f47d.png	👽	:alien:													
+1f47e.png	👾	:space_invader:													
+1f47f.png	👿	:imp:													
+1f480.png	💀	:skull:	:skeleton:												
+1f494.png	💔	:broken_heart:	</3												
+1f4a1.png	💡	:bulb:													
+1f4a3.png	💣	:bomb:													
+1f4a4.png	💤	:zzz:													
+1f4a9.png	💩	:poop:	:shit:	:hankey:	:poo:										
+1f4aa.png	💪	:muscle:													
+1f4b0.png	💰	:moneybag:													
+1f525.png	🔥	:fire:	:flame:												
+1f52a.png	🔪	:knife:													
+1f52b.png	🔫	:gun:													
+1f54a.png	🕊	:dove:	:dove_of_peace:												
+1f575.png	🕵	:spy:	:sleuth_or_spy:												
+1f577.png	🕷	:spider:													
+1f579.png	🕹	:joystick:													
+1f595.png	🖕	:middle_finger:	:reversed_hand_with_middle_finger_extended:												
+1f596.png	🖖	:vulcan:	:raised_hand_with_part_between_middle_and_ring_fingers:												
+1f5e1.png	🗡	:dagger:	:dagger_knife:												

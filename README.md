@@ -1,14 +1,15 @@
-# Emoji Slim for Pidgin
+# Emoji Slim and Emoji Slimmer for Pidgin
 
-A Pidgin [smiley theme](https://developer.pidgin.im/wiki/SmileyThemes) based
-on [Emoji One](http://emojione.com/) and forked from [pidgin-emojione](https://github.com/niclashoyer/pidgin-emojione).
+These are two Pidgin [smiley themes](https://developer.pidgin.im/wiki/SmileyThemes) based
+on [Emoji One](http://emojione.com/) and forked from [pidgin-emojione](https://github.com/niclashoyer/pidgin-emojione). They are manageable subsets of the 1800+ emojis out there.
 
-Although I call this theme "slim", it contains 420 icons... but it's still much smaller than the original theme (1832 icons and growing).
+ * Emoji Slim contains 420 icons. All the dank emojis you just gotta have, like :shrimp:
+ * Emoji Slimmer contains 255 icons. 255 "ought to be enough for anybody"
 
 ## Installation
 
 Download the latest release
-[`pidgin-emojislim.tar.gz`](https://github.com/seandiggity/pidgin-emojislim/pidgin-emojislim.tar.gz)
+[`pidgin-emojislim.tar.gz`](https://github.com/seandiggity/pidgin-emojislim/pidgin-emojislim.tar.gz) or [`pidgin-emojislimmer.tar.gz`](https://github.com/seandiggity/pidgin-emojislim/pidgin-emojislimmer.tar.gz)
 and drag it onto the list of smiley themes in Tools → Preferences.
 
 ## Licenses
